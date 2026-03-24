@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create Test Pending Request</title>
+</head>
+<body>
+    <h2>Creating Test Pending Request...</h2>
+    <div id="result"></div>
+    
+    <script>
+        const testUser = {
+            email: 'test.pending@example.com',
+            full_name: 'مستخدم تجريبي معلق',
+            organization: 'منظمة اختبار',
+            role: 'security_man',
+            status: 'pending',
+            created_at: new Date().toISOString()
+        };
+
+        fetch('https://chjonhyjqztktxspwlkd.supabase.co/rest/v1/users', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'apikey': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNoam9uaHlqcXp0a3R4c3B3bGtkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMwOTU3MTUsImV4cCI6MjA4ODY3MTcxNX0.6b-Ii-XJAIOTdvNVO_AOc1pKhjVw5_BTW-x9TDb34UI',
+                'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNoam9uaHlqcXp0a3R4c3B3bGtkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMwOTU3MTUsImV4cCI6MjA4ODY3MTcxNX0.6b-Ii-XJAIOTdvNVO_AOc1pKhjVw5_BTW-x9TDb34UI',
+                'Prefer': 'return=representation'
+            },
+            body: JSON.stringify(testUser)
+        })
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('result').innerHTML = 
+                '<h3>✅ Test Pending User Created!</h3>' +
+                '<p>Email: ' + data[0].email + '</p>' +
+                '<p>Name: ' + data[0].full_name + '</p>' +
+                '<p>Status: ' + data[0].status + '</p>' +
+                '<p><a href="Smart-guard-master/Frontend/index.html" target="_blank">Go to Admin Dashboard</a></p>' +
+                '<p>Refresh the dashboard to see the pending request!</p>';
+        })
+        .catch(error => {
+            document.getElementById('result').innerHTML = 
+                '<h3>❌ Error</h3><p>' + error.message + '</p>';
+        });
+    </script>
+</body>
+</html>

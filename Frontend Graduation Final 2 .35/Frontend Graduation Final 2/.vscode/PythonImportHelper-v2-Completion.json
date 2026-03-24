@@ -1,0 +1,1789 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pathlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Notifier",
+        "importPath": "services.notifier",
+        "description": "services.notifier",
+        "isExtraImport": true,
+        "detail": "services.notifier",
+        "documentation": {}
+    },
+    {
+        "label": "Notifier",
+        "importPath": "services.notifier",
+        "description": "services.notifier",
+        "isExtraImport": true,
+        "detail": "services.notifier",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocket",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketDisconnect",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "secrets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "secrets",
+        "description": "secrets",
+        "detail": "secrets",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "create_client",
+        "importPath": "supabase",
+        "description": "supabase",
+        "isExtraImport": true,
+        "detail": "supabase",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "supabase",
+        "description": "supabase",
+        "isExtraImport": true,
+        "detail": "supabase",
+        "documentation": {}
+    },
+    {
+        "label": "send_signup_notification_dev",
+        "importPath": "services.email_service",
+        "description": "services.email_service",
+        "isExtraImport": true,
+        "detail": "services.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "FileResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "bus",
+        "importPath": "services.event_bus",
+        "description": "services.event_bus",
+        "isExtraImport": true,
+        "detail": "services.event_bus",
+        "documentation": {}
+    },
+    {
+        "label": "bus",
+        "importPath": "services.event_bus",
+        "description": "services.event_bus",
+        "isExtraImport": true,
+        "detail": "services.event_bus",
+        "documentation": {}
+    },
+    {
+        "label": "AbnormalBehaviorDetector",
+        "importPath": "services.detector",
+        "description": "services.detector",
+        "isExtraImport": true,
+        "detail": "services.detector",
+        "documentation": {}
+    },
+    {
+        "label": "RedisManager",
+        "importPath": "services.redis_manager",
+        "description": "services.redis_manager",
+        "isExtraImport": true,
+        "detail": "services.redis_manager",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "AbnormalModel",
+        "importPath": "models.abnormal_model",
+        "description": "models.abnormal_model",
+        "isExtraImport": true,
+        "detail": "models.abnormal_model",
+        "documentation": {}
+    },
+    {
+        "label": "AbnormalModel",
+        "importPath": "models.abnormal_model",
+        "description": "models.abnormal_model",
+        "isExtraImport": true,
+        "detail": "models.abnormal_model",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionResponse",
+        "importPath": "schemas.prediction",
+        "description": "schemas.prediction",
+        "isExtraImport": true,
+        "detail": "schemas.prediction",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "get_jpeg",
+        "importPath": "services.frame_store",
+        "description": "services.frame_store",
+        "isExtraImport": true,
+        "detail": "services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "set_jpeg",
+        "importPath": "services.frame_store",
+        "description": "services.frame_store",
+        "isExtraImport": true,
+        "detail": "services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "frame_store",
+        "importPath": "services.frame_store",
+        "description": "services.frame_store",
+        "isExtraImport": true,
+        "detail": "services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEImage",
+        "importPath": "email.mime.image",
+        "description": "email.mime.image",
+        "isExtraImport": true,
+        "detail": "email.mime.image",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "twilio.rest",
+        "description": "twilio.rest",
+        "isExtraImport": true,
+        "detail": "twilio.rest",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "shared_state",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shared_state",
+        "description": "shared_state",
+        "detail": "shared_state",
+        "documentation": {}
+    },
+    {
+        "label": "latest_pred",
+        "importPath": "shared_state",
+        "description": "shared_state",
+        "isExtraImport": true,
+        "detail": "shared_state",
+        "documentation": {}
+    },
+    {
+        "label": "latest_pred",
+        "importPath": "shared_state",
+        "description": "shared_state",
+        "isExtraImport": true,
+        "detail": "shared_state",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_video",
+        "importPath": "utils.preprocessing",
+        "description": "utils.preprocessing",
+        "isExtraImport": true,
+        "detail": "utils.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "run_inference",
+        "importPath": "routers.inference",
+        "description": "routers.inference",
+        "isExtraImport": true,
+        "detail": "routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "run_inference",
+        "importPath": "routers.inference",
+        "description": "routers.inference",
+        "isExtraImport": true,
+        "detail": "routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "csv_to_xlsx",
+        "importPath": "utils.log_converter",
+        "description": "utils.log_converter",
+        "isExtraImport": true,
+        "detail": "utils.log_converter",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routers.auth",
+        "description": "routers.auth",
+        "isExtraImport": true,
+        "detail": "routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routers.video_stream_router",
+        "description": "routers.video_stream_router",
+        "isExtraImport": true,
+        "detail": "routers.video_stream_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routers.video_router",
+        "description": "routers.video_router",
+        "isExtraImport": true,
+        "detail": "routers.video_router",
+        "documentation": {}
+    },
+    {
+        "label": "process_video_stream",
+        "importPath": "workers.stream_processor",
+        "description": "workers.stream_processor",
+        "isExtraImport": true,
+        "detail": "workers.stream_processor",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.config.settings",
+        "description": "Smart-guard-master.Backend.config.settings",
+        "peekOfCode": "class Settings:\n    # Use the local model path within the project\n    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n    MODEL_PATH = os.path.join(BASE_DIR, \"models\", \"my_model_fight_cnn_bilstm10 (3).keras\")\n    SEQ_LEN = 35\n    IMG_SIZE = 128\n    CHANNELS = 3\n    # Supabase config\n    SUPABASE_URL = os.getenv(\"SUPABASE_URL\", \"https://chjonhyjqztktxspwlkd.supabase.co\")\n    SUPABASE_ANON_KEY = os.getenv(\"SUPABASE_ANON_KEY\", \"\")",
+        "detail": "Smart-guard-master.Backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.config.settings",
+        "description": "Smart-guard-master.Backend.config.settings",
+        "peekOfCode": "settings = Settings()",
+        "detail": "Smart-guard-master.Backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "log_event",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.logs.events",
+        "description": "Smart-guard-master.Backend.logs.events",
+        "peekOfCode": "def log_event(event_type: str, message: str):\n    timestamp = datetime.datetime.now().isoformat()\n    print(f\"[{timestamp}] [{event_type.upper()}] {message}\")",
+        "detail": "Smart-guard-master.Backend.logs.events",
+        "documentation": {}
+    },
+    {
+        "label": "AbnormalModel",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.models.abnormal_model",
+        "description": "Smart-guard-master.Backend.models.abnormal_model",
+        "peekOfCode": "class AbnormalModel:\n    def __init__(self, model_path: str | None = None):\n        self.model_path = model_path or settings.MODEL_PATH\n        self.model = None\n        # 🎯 ADAPTIVE THRESHOLD INITIALIZATION\n        self.adaptive_threshold = 0.161  # Start with fixed threshold\n        self.abnormal_rate = 0.0\n        self.prediction_count = 0\n        self.abnormal_count = 0\n    def load(self) -> bool:",
+        "detail": "Smart-guard-master.Backend.models.abnormal_model",
+        "documentation": {}
+    },
+    {
+        "label": "send_abnormal_alert",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.alerts",
+        "description": "Smart-guard-master.Backend.routers.alerts",
+        "peekOfCode": "def send_abnormal_alert(confidence: float):\n    message = f\" Abnormal behavior detected! Confidence: {confidence:.2f}\"\n    notifier.send_alert(message)",
+        "detail": "Smart-guard-master.Backend.routers.alerts",
+        "documentation": {}
+    },
+    {
+        "label": "notifier",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.routers.alerts",
+        "description": "Smart-guard-master.Backend.routers.alerts",
+        "peekOfCode": "notifier = Notifier(webhook_url=None)  # لو عندك URL حطيه هنا\ndef send_abnormal_alert(confidence: float):\n    message = f\" Abnormal behavior detected! Confidence: {confidence:.2f}\"\n    notifier.send_alert(message)",
+        "detail": "Smart-guard-master.Backend.routers.alerts",
+        "documentation": {}
+    },
+    {
+        "label": "SignupRequest",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.routers.auth",
+        "description": "Smart-guard-master.Backend.routers.auth",
+        "peekOfCode": "class SignupRequest(BaseModel):\n    email: str\n    password: str\n    full_name: str\n    organization: str\n    role: str = \"security_man\"  # 'security_man' or 'admin'\nclass SigninRequest(BaseModel):\n    email: str\n    password: str\nclass DeclineRequest(BaseModel):",
+        "detail": "Smart-guard-master.Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "SigninRequest",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.routers.auth",
+        "description": "Smart-guard-master.Backend.routers.auth",
+        "peekOfCode": "class SigninRequest(BaseModel):\n    email: str\n    password: str\nclass DeclineRequest(BaseModel):\n    reason: str\n# Helpers\ndef hash_password(password: str) -> str:\n    \"\"\"Hash a password for storing\"\"\"\n    salt = secrets.token_hex(8)\n    hash_part = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000).hex()",
+        "detail": "Smart-guard-master.Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "DeclineRequest",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.routers.auth",
+        "description": "Smart-guard-master.Backend.routers.auth",
+        "peekOfCode": "class DeclineRequest(BaseModel):\n    reason: str\n# Helpers\ndef hash_password(password: str) -> str:\n    \"\"\"Hash a password for storing\"\"\"\n    salt = secrets.token_hex(8)\n    hash_part = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000).hex()\n    return f\"{salt}${hash_part}\"\ndef verify_password(password: str, password_hash: str) -> bool:\n    \"\"\"Verify a stored password against one provided by user\"\"\"",
+        "detail": "Smart-guard-master.Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.auth",
+        "description": "Smart-guard-master.Backend.routers.auth",
+        "peekOfCode": "def init_db():\n    \"\"\"Initialize database with users and signup requests tables\"\"\"\n    conn = sqlite3.connect(\"smartguard.db\")\n    c = conn.cursor()\n    # Users table\n    c.execute('''\n        CREATE TABLE IF NOT EXISTS users (\n            id TEXT PRIMARY KEY,\n            email TEXT UNIQUE NOT NULL,\n            full_name TEXT NOT NULL,",
+        "detail": "Smart-guard-master.Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.auth",
+        "description": "Smart-guard-master.Backend.routers.auth",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    \"\"\"Hash a password for storing\"\"\"\n    salt = secrets.token_hex(8)\n    hash_part = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000).hex()\n    return f\"{salt}${hash_part}\"\ndef verify_password(password: str, password_hash: str) -> bool:\n    \"\"\"Verify a stored password against one provided by user\"\"\"\n    try:\n        salt, hash_part = password_hash.split('$')\n        password_check = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000)",
+        "detail": "Smart-guard-master.Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.auth",
+        "description": "Smart-guard-master.Backend.routers.auth",
+        "peekOfCode": "def verify_password(password: str, password_hash: str) -> bool:\n    \"\"\"Verify a stored password against one provided by user\"\"\"\n    try:\n        salt, hash_part = password_hash.split('$')\n        password_check = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000)\n        return password_check.hex() == hash_part\n    except:\n        return False\ndef generate_token(user_id: str, email: str, organization: str, role: str) -> str:\n    \"\"\"Generate token with user info encoded\"\"\"",
+        "detail": "Smart-guard-master.Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "generate_token",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.auth",
+        "description": "Smart-guard-master.Backend.routers.auth",
+        "peekOfCode": "def generate_token(user_id: str, email: str, organization: str, role: str) -> str:\n    \"\"\"Generate token with user info encoded\"\"\"\n    token_data = {\n            \"user_id\": user_id,\n            \"email\": email,\n            \"organization\": organization,\n            \"role\": role\n        }\n    token_json = json.dumps(token_data)\n    token = base64.b64encode(token_json.encode()).decode()",
+        "detail": "Smart-guard-master.Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.auth",
+        "description": "Smart-guard-master.Backend.routers.auth",
+        "peekOfCode": "def decode_token(token: str) -> dict:\n    \"\"\"Decode token to get user info\"\"\"\n    try:\n        print(f\"DEBUG: Decoding token: {token[:20]}...\")\n        token_json = base64.b64decode(token.encode()).decode()\n        data = json.loads(token_json)\n        print(f\"DEBUG: Decoded data: {data}\")\n        return data\n    except Exception as e:\n        print(f\"DEBUG: Token decode error: {e}\")",
+        "detail": "Smart-guard-master.Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.auth",
+        "description": "Smart-guard-master.Backend.routers.auth",
+        "peekOfCode": "def get_db():\n    \"\"\"Get database connection\"\"\"\n    return sqlite3.connect(\"smartguard.db\")\n# Endpoints\n@router.post(\"/signup\")\nasync def signup(request: SignupRequest):\n    \"\"\"Register a new user and sync with Supabase\"\"\"\n    init_db()\n    conn = get_db()\n    c = conn.cursor()",
+        "detail": "Smart-guard-master.Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.routers.auth",
+        "description": "Smart-guard-master.Backend.routers.auth",
+        "peekOfCode": "router = APIRouter(prefix=\"/auth\", tags=[\"auth\"])\n# Supabase initialization\nsupabase: Client = create_client(settings.SUPABASE_URL, settings.SUPABASE_ANON_KEY)\n# Database setup (Keeping local SQLite as cache/backup)\ndef init_db():\n    \"\"\"Initialize database with users and signup requests tables\"\"\"\n    conn = sqlite3.connect(\"smartguard.db\")\n    c = conn.cursor()\n    # Users table\n    c.execute('''",
+        "detail": "Smart-guard-master.Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "ThresholdPayload",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.routers.config_router",
+        "description": "Smart-guard-master.Backend.routers.config_router",
+        "peekOfCode": "class ThresholdPayload(BaseModel):\n    threshold: float\n@router.get(\"/threshold\")\ndef get_threshold():\n    return {\"threshold\": settings.ABNORMAL_THRESHOLD}\n@router.post(\"/threshold\")\ndef set_threshold(payload: ThresholdPayload):\n    t = payload.threshold\n    if not (0.0 <= t <= 1.0):\n        raise HTTPException(status_code=400, detail=\"Threshold must be between 0.0 and 1.0\")",
+        "detail": "Smart-guard-master.Backend.routers.config_router",
+        "documentation": {}
+    },
+    {
+        "label": "get_threshold",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.config_router",
+        "description": "Smart-guard-master.Backend.routers.config_router",
+        "peekOfCode": "def get_threshold():\n    return {\"threshold\": settings.ABNORMAL_THRESHOLD}\n@router.post(\"/threshold\")\ndef set_threshold(payload: ThresholdPayload):\n    t = payload.threshold\n    if not (0.0 <= t <= 1.0):\n        raise HTTPException(status_code=400, detail=\"Threshold must be between 0.0 and 1.0\")\n    settings.ABNORMAL_THRESHOLD = float(t)\n    return {\"threshold\": settings.ABNORMAL_THRESHOLD}",
+        "detail": "Smart-guard-master.Backend.routers.config_router",
+        "documentation": {}
+    },
+    {
+        "label": "set_threshold",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.config_router",
+        "description": "Smart-guard-master.Backend.routers.config_router",
+        "peekOfCode": "def set_threshold(payload: ThresholdPayload):\n    t = payload.threshold\n    if not (0.0 <= t <= 1.0):\n        raise HTTPException(status_code=400, detail=\"Threshold must be between 0.0 and 1.0\")\n    settings.ABNORMAL_THRESHOLD = float(t)\n    return {\"threshold\": settings.ABNORMAL_THRESHOLD}",
+        "detail": "Smart-guard-master.Backend.routers.config_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.routers.config_router",
+        "description": "Smart-guard-master.Backend.routers.config_router",
+        "peekOfCode": "router = APIRouter(prefix=\"/config\", tags=[\"Config\"])\nclass ThresholdPayload(BaseModel):\n    threshold: float\n@router.get(\"/threshold\")\ndef get_threshold():\n    return {\"threshold\": settings.ABNORMAL_THRESHOLD}\n@router.post(\"/threshold\")\ndef set_threshold(payload: ThresholdPayload):\n    t = payload.threshold\n    if not (0.0 <= t <= 1.0):",
+        "detail": "Smart-guard-master.Backend.routers.config_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.routers.events_router",
+        "description": "Smart-guard-master.Backend.routers.events_router",
+        "peekOfCode": "router = APIRouter(prefix=\"/events\", tags=[\"Events\"])\nasync def sse_generator():\n    q = await bus.subscribe()\n    try:\n        yield \"retry: 5000\\n\\n\"\n        while True:\n            try:\n                event = await asyncio.wait_for(q.get(), timeout=1.0)\n                data = json.dumps(event, ensure_ascii=False)\n                yield f\"data: {data}\\n\\n\"",
+        "detail": "Smart-guard-master.Backend.routers.events_router",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.frontend_router",
+        "description": "Smart-guard-master.Backend.routers.frontend_router",
+        "peekOfCode": "def root():\n    return {\"message\": \"Frontend router placeholder\"}",
+        "detail": "Smart-guard-master.Backend.routers.frontend_router",
+        "documentation": {}
+    },
+    {
+        "label": "frontend_router",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.routers.frontend_router",
+        "description": "Smart-guard-master.Backend.routers.frontend_router",
+        "peekOfCode": "frontend_router = APIRouter()\n@frontend_router.get(\"/\")\ndef root():\n    return {\"message\": \"Frontend router placeholder\"}",
+        "detail": "Smart-guard-master.Backend.routers.frontend_router",
+        "documentation": {}
+    },
+    {
+        "label": "run_inference",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.inference",
+        "description": "Smart-guard-master.Backend.routers.inference",
+        "peekOfCode": "def run_inference(video_bytes, video_id=None):\n    global alert_active\n    print(f\"Using model path: {detector.model.model_path}\")\n    result = detector.predict(video_bytes)\n    print(f\"Inference: confidence={result['confidence']:.3f}, threshold={settings.ABNORMAL_THRESHOLD}, abnormal={result['is_abnormal']}\")\n    saved_video_path = None\n    if result[\"is_abnormal\"]:\n        if not alert_active:\n            notifier.send_alert(f\"Abnormal behavior detected! Confidence: {result['confidence']:.2f}\")\n            alert_active = True",
+        "detail": "Smart-guard-master.Backend.routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "detector",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.routers.inference",
+        "description": "Smart-guard-master.Backend.routers.inference",
+        "peekOfCode": "detector = AbnormalBehaviorDetector()\nnotifier = Notifier(webhook_url=settings.WEBHOOK_URL)\nredis_manager = RedisManager()\nalert_active = False\ndef run_inference(video_bytes, video_id=None):\n    global alert_active\n    print(f\"Using model path: {detector.model.model_path}\")\n    result = detector.predict(video_bytes)\n    print(f\"Inference: confidence={result['confidence']:.3f}, threshold={settings.ABNORMAL_THRESHOLD}, abnormal={result['is_abnormal']}\")\n    saved_video_path = None",
+        "detail": "Smart-guard-master.Backend.routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "notifier",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.routers.inference",
+        "description": "Smart-guard-master.Backend.routers.inference",
+        "peekOfCode": "notifier = Notifier(webhook_url=settings.WEBHOOK_URL)\nredis_manager = RedisManager()\nalert_active = False\ndef run_inference(video_bytes, video_id=None):\n    global alert_active\n    print(f\"Using model path: {detector.model.model_path}\")\n    result = detector.predict(video_bytes)\n    print(f\"Inference: confidence={result['confidence']:.3f}, threshold={settings.ABNORMAL_THRESHOLD}, abnormal={result['is_abnormal']}\")\n    saved_video_path = None\n    if result[\"is_abnormal\"]:",
+        "detail": "Smart-guard-master.Backend.routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "redis_manager",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.routers.inference",
+        "description": "Smart-guard-master.Backend.routers.inference",
+        "peekOfCode": "redis_manager = RedisManager()\nalert_active = False\ndef run_inference(video_bytes, video_id=None):\n    global alert_active\n    print(f\"Using model path: {detector.model.model_path}\")\n    result = detector.predict(video_bytes)\n    print(f\"Inference: confidence={result['confidence']:.3f}, threshold={settings.ABNORMAL_THRESHOLD}, abnormal={result['is_abnormal']}\")\n    saved_video_path = None\n    if result[\"is_abnormal\"]:\n        if not alert_active:",
+        "detail": "Smart-guard-master.Backend.routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "alert_active",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.routers.inference",
+        "description": "Smart-guard-master.Backend.routers.inference",
+        "peekOfCode": "alert_active = False\ndef run_inference(video_bytes, video_id=None):\n    global alert_active\n    print(f\"Using model path: {detector.model.model_path}\")\n    result = detector.predict(video_bytes)\n    print(f\"Inference: confidence={result['confidence']:.3f}, threshold={settings.ABNORMAL_THRESHOLD}, abnormal={result['is_abnormal']}\")\n    saved_video_path = None\n    if result[\"is_abnormal\"]:\n        if not alert_active:\n            notifier.send_alert(f\"Abnormal behavior detected! Confidence: {result['confidence']:.2f}\")",
+        "detail": "Smart-guard-master.Backend.routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "video_test",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.video_router",
+        "description": "Smart-guard-master.Backend.routers.video_router",
+        "peekOfCode": "def video_test():\n    return {\"status\": \"video router working\"}\n# ----------- Helper: Extract 35 frames -----------\ndef extract_frames(video_path, target_frames=35, img_size=128):\n    cap = cv2.VideoCapture(video_path)\n    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))\n    if total_frames < target_frames:\n        raise HTTPException(status_code=400, detail=\"Video too short\")\n    # Pick frames equally spaced\n    frame_indices = np.linspace(0, total_frames - 1, target_frames).astype(int)",
+        "detail": "Smart-guard-master.Backend.routers.video_router",
+        "documentation": {}
+    },
+    {
+        "label": "extract_frames",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.video_router",
+        "description": "Smart-guard-master.Backend.routers.video_router",
+        "peekOfCode": "def extract_frames(video_path, target_frames=35, img_size=128):\n    cap = cv2.VideoCapture(video_path)\n    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))\n    if total_frames < target_frames:\n        raise HTTPException(status_code=400, detail=\"Video too short\")\n    # Pick frames equally spaced\n    frame_indices = np.linspace(0, total_frames - 1, target_frames).astype(int)\n    frames = []\n    for idx in frame_indices:\n        cap.set(cv2.CAP_PROP_POS_FRAMES, idx)",
+        "detail": "Smart-guard-master.Backend.routers.video_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.routers.video_router",
+        "description": "Smart-guard-master.Backend.routers.video_router",
+        "peekOfCode": "router = APIRouter(prefix=\"/video\", tags=[\"Video\"])\n# Load model once\nmodel = AbnormalModel()\n@router.get(\"/test\")\ndef video_test():\n    return {\"status\": \"video router working\"}\n# ----------- Helper: Extract 35 frames -----------\ndef extract_frames(video_path, target_frames=35, img_size=128):\n    cap = cv2.VideoCapture(video_path)\n    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))",
+        "detail": "Smart-guard-master.Backend.routers.video_router",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.routers.video_router",
+        "description": "Smart-guard-master.Backend.routers.video_router",
+        "peekOfCode": "model = AbnormalModel()\n@router.get(\"/test\")\ndef video_test():\n    return {\"status\": \"video router working\"}\n# ----------- Helper: Extract 35 frames -----------\ndef extract_frames(video_path, target_frames=35, img_size=128):\n    cap = cv2.VideoCapture(video_path)\n    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))\n    if total_frames < target_frames:\n        raise HTTPException(status_code=400, detail=\"Video too short\")",
+        "detail": "Smart-guard-master.Backend.routers.video_router",
+        "documentation": {}
+    },
+    {
+        "label": "mjpeg_generator",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.video_stream_router",
+        "description": "Smart-guard-master.Backend.routers.video_stream_router",
+        "peekOfCode": "def mjpeg_generator():\n    boundary = b\"--frame\"\n    placeholder = None\n    while True:\n        jpeg = get_jpeg()\n        if jpeg is not None:\n            yield boundary + b\"\\r\\nContent-Type: image/jpeg\\r\\nContent-Length: \" + str(len(jpeg)).encode() + b\"\\r\\n\\r\\n\" + jpeg + b\"\\r\\n\"\n        else:\n            if placeholder is None:\n                # Create a proper test feed with camera icon and status",
+        "detail": "Smart-guard-master.Backend.routers.video_stream_router",
+        "documentation": {}
+    },
+    {
+        "label": "mjpeg",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.routers.video_stream_router",
+        "description": "Smart-guard-master.Backend.routers.video_stream_router",
+        "peekOfCode": "def mjpeg():\n    return StreamingResponse(\n        mjpeg_generator(), \n        media_type=\"multipart/x-mixed-replace; boundary=frame\",\n        headers={\n            \"Cache-Control\": \"no-cache, no-store, must-revalidate\",\n            \"Pragma\": \"no-cache\",\n            \"Expires\": \"0\",\n            \"Access-Control-Allow-Origin\": \"*\"\n        }",
+        "detail": "Smart-guard-master.Backend.routers.video_stream_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.routers.video_stream_router",
+        "description": "Smart-guard-master.Backend.routers.video_stream_router",
+        "peekOfCode": "router = APIRouter(prefix=\"/stream\", tags=[\"Stream\"])\ndef mjpeg_generator():\n    boundary = b\"--frame\"\n    placeholder = None\n    while True:\n        jpeg = get_jpeg()\n        if jpeg is not None:\n            yield boundary + b\"\\r\\nContent-Type: image/jpeg\\r\\nContent-Length: \" + str(len(jpeg)).encode() + b\"\\r\\n\\r\\n\" + jpeg + b\"\\r\\n\"\n        else:\n            if placeholder is None:",
+        "detail": "Smart-guard-master.Backend.routers.video_stream_router",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionResponse",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.schemas.prediction",
+        "description": "Smart-guard-master.Backend.schemas.prediction",
+        "peekOfCode": "class PredictionResponse(BaseModel):\n    is_abnormal: bool\n    confidence: float",
+        "detail": "Smart-guard-master.Backend.schemas.prediction",
+        "documentation": {}
+    },
+    {
+        "label": "send_email_sync",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.services.email_service",
+        "description": "Smart-guard-master.Backend.services.email_service",
+        "peekOfCode": "def send_email_sync(recipients, sender, password, msg):\n    \"\"\"Synchronous function to send email to multiple recipients\"\"\"\n    try:\n        if not recipients:\n            print(\"⚠️ No recipients provided. Skipping email send.\")\n            return False\n        print(f\"🔄 Connecting to {settings.SMTP_SERVER}:{settings.SMTP_PORT}...\")\n        server = smtplib.SMTP(settings.SMTP_SERVER, settings.SMTP_PORT, timeout=15)\n        server.starttls()\n        print(f\"🔄 Logging in as {sender}...\")",
+        "detail": "Smart-guard-master.Backend.services.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_admin_emails_for_organization",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.services.email_service",
+        "description": "Smart-guard-master.Backend.services.email_service",
+        "peekOfCode": "def get_admin_emails_for_organization(organization: str) -> list:\n    \"\"\"Get admin emails for a specific organization\"\"\"\n    try:\n        # Specific email mappings for organizations\n        organization_emails = {\n            \"BNU\": [\"smartguardbnu@gmail.com\", \"mahernada562@gmail.com\", \"nmaher712@gmail.com\"],\n            \"BUE\": [\"smartguardbnu@gmail.com\", \"ahmedskaram2@gmail.com\"],\n            \"Smart Guard\": [\"smartguardbnu@gmail.com\"]\n        }\n        # Return specific emails if organization is mapped",
+        "detail": "Smart-guard-master.Backend.services.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "EventBus",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.services.event_bus",
+        "description": "Smart-guard-master.Backend.services.event_bus",
+        "peekOfCode": "class EventBus:\n    def __init__(self):\n        self._subscribers: List[asyncio.Queue] = []\n        self._lock = asyncio.Lock()\n    async def subscribe(self) -> asyncio.Queue:\n        q: asyncio.Queue = asyncio.Queue(maxsize=100)\n        async with self._lock:\n            self._subscribers.append(q)\n        return q\n    async def unsubscribe(self, q: asyncio.Queue):",
+        "detail": "Smart-guard-master.Backend.services.event_bus",
+        "documentation": {}
+    },
+    {
+        "label": "bus",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.services.event_bus",
+        "description": "Smart-guard-master.Backend.services.event_bus",
+        "peekOfCode": "bus = EventBus()",
+        "detail": "Smart-guard-master.Backend.services.event_bus",
+        "documentation": {}
+    },
+    {
+        "label": "set_jpeg",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.services.frame_store",
+        "description": "Smart-guard-master.Backend.services.frame_store",
+        "peekOfCode": "def set_jpeg(jpeg_bytes):\n    global latest_jpeg\n    latest_jpeg = jpeg_bytes\ndef get_jpeg():\n    global latest_jpeg\n    if latest_jpeg is None:\n        # Return a fallback test image when no camera is available\n        import cv2\n        import numpy as np\n        # Create a simple test image",
+        "detail": "Smart-guard-master.Backend.services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "get_jpeg",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.services.frame_store",
+        "description": "Smart-guard-master.Backend.services.frame_store",
+        "peekOfCode": "def get_jpeg():\n    global latest_jpeg\n    if latest_jpeg is None:\n        # Return a fallback test image when no camera is available\n        import cv2\n        import numpy as np\n        # Create a simple test image\n        img = np.zeros((480, 640, 3), dtype=np.uint8)\n        # Add some visual content\n        cv2.putText(img, 'Camera Feed Unavailable', (150, 240), ",
+        "detail": "Smart-guard-master.Backend.services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "set_prediction",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.services.frame_store",
+        "description": "Smart-guard-master.Backend.services.frame_store",
+        "peekOfCode": "def set_prediction(pred):\n    global latest_pred\n    latest_pred = pred\ndef get_prediction():\n    return latest_pred",
+        "detail": "Smart-guard-master.Backend.services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "get_prediction",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.services.frame_store",
+        "description": "Smart-guard-master.Backend.services.frame_store",
+        "peekOfCode": "def get_prediction():\n    return latest_pred",
+        "detail": "Smart-guard-master.Backend.services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "latest_jpeg",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.services.frame_store",
+        "description": "Smart-guard-master.Backend.services.frame_store",
+        "peekOfCode": "latest_jpeg = None\nlatest_pred = None\ndef set_jpeg(jpeg_bytes):\n    global latest_jpeg\n    latest_jpeg = jpeg_bytes\ndef get_jpeg():\n    global latest_jpeg\n    if latest_jpeg is None:\n        # Return a fallback test image when no camera is available\n        import cv2",
+        "detail": "Smart-guard-master.Backend.services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "latest_pred",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.services.frame_store",
+        "description": "Smart-guard-master.Backend.services.frame_store",
+        "peekOfCode": "latest_pred = None\ndef set_jpeg(jpeg_bytes):\n    global latest_jpeg\n    latest_jpeg = jpeg_bytes\ndef get_jpeg():\n    global latest_jpeg\n    if latest_jpeg is None:\n        # Return a fallback test image when no camera is available\n        import cv2\n        import numpy as np",
+        "detail": "Smart-guard-master.Backend.services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "Notifier",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.services.notifier",
+        "description": "Smart-guard-master.Backend.services.notifier",
+        "peekOfCode": "class Notifier:\n    def __init__(self, webhook_url=None):\n        self.webhook_url = webhook_url\n    def send_alert(self, message: str):\n        if self.webhook_url:\n            payload = {\"text\": message}\n            try:\n                requests.post(self.webhook_url, json=payload)\n            except Exception as e:\n                print(\"Failed to send alert:\", e)",
+        "detail": "Smart-guard-master.Backend.services.notifier",
+        "documentation": {}
+    },
+    {
+        "label": "RedisManager",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.services.redis_manager",
+        "description": "Smart-guard-master.Backend.services.redis_manager",
+        "peekOfCode": "class RedisManager:\n    def __init__(self):\n        self.client = redis.Redis(\n            host=settings.REDIS_HOST,\n            port=settings.REDIS_PORT,\n            db=settings.REDIS_DB,\n            decode_responses=True\n        )\n    def set_prediction(self, video_id, result):\n        self.client.set(video_id, result)",
+        "detail": "Smart-guard-master.Backend.services.redis_manager",
+        "documentation": {}
+    },
+    {
+        "label": "TwilioService",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.services.twilio_service",
+        "description": "Smart-guard-master.Backend.services.twilio_service",
+        "peekOfCode": "class TwilioService:\n    def __init__(self):\n        self.account_sid = settings.TWILIO_ACCOUNT_SID\n        self.auth_token = settings.TWILIO_AUTH_TOKEN\n        self.from_phone = settings.TWILIO_PHONE_NUMBER\n        self.from_whatsapp = settings.TWILIO_WHATSAPP_NUMBER\n        self.to_phone = settings.RECIPIENT_PHONE_NUMBER\n        if self.account_sid and self.auth_token:\n            try:\n                self.client = Client(self.account_sid, self.auth_token)",
+        "detail": "Smart-guard-master.Backend.services.twilio_service",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.services.twilio_service",
+        "description": "Smart-guard-master.Backend.services.twilio_service",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass TwilioService:\n    def __init__(self):\n        self.account_sid = settings.TWILIO_ACCOUNT_SID\n        self.auth_token = settings.TWILIO_AUTH_TOKEN\n        self.from_phone = settings.TWILIO_PHONE_NUMBER\n        self.from_whatsapp = settings.TWILIO_WHATSAPP_NUMBER\n        self.to_phone = settings.RECIPIENT_PHONE_NUMBER\n        if self.account_sid and self.auth_token:\n            try:",
+        "detail": "Smart-guard-master.Backend.services.twilio_service",
+        "documentation": {}
+    },
+    {
+        "label": "twilio_service",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.services.twilio_service",
+        "description": "Smart-guard-master.Backend.services.twilio_service",
+        "peekOfCode": "twilio_service = TwilioService()",
+        "detail": "Smart-guard-master.Backend.services.twilio_service",
+        "documentation": {}
+    },
+    {
+        "label": "test_root",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.tests.test_endpoints",
+        "description": "Smart-guard-master.Backend.tests.test_endpoints",
+        "peekOfCode": "def test_root():\n    resp = requests.get(f\"{BASE_URL}/\")\n    print(resp.json())\ndef test_video_predict(video_path):\n    with open(video_path, \"rb\") as f:\n        files = {\"video\": f}\n        resp = requests.post(f\"{BASE_URL}/video/predict\", files=files)\n        print(resp.json())\nif __name__ == \"__main__\":\n    test_root()",
+        "detail": "Smart-guard-master.Backend.tests.test_endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "test_video_predict",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.tests.test_endpoints",
+        "description": "Smart-guard-master.Backend.tests.test_endpoints",
+        "peekOfCode": "def test_video_predict(video_path):\n    with open(video_path, \"rb\") as f:\n        files = {\"video\": f}\n        resp = requests.post(f\"{BASE_URL}/video/predict\", files=files)\n        print(resp.json())\nif __name__ == \"__main__\":\n    test_root()\n    # test_video_predict(\"test_video.mp4\")",
+        "detail": "Smart-guard-master.Backend.tests.test_endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.tests.test_endpoints",
+        "description": "Smart-guard-master.Backend.tests.test_endpoints",
+        "peekOfCode": "BASE_URL = \"http://127.0.0.1:8000\"\ndef test_root():\n    resp = requests.get(f\"{BASE_URL}/\")\n    print(resp.json())\ndef test_video_predict(video_path):\n    with open(video_path, \"rb\") as f:\n        files = {\"video\": f}\n        resp = requests.post(f\"{BASE_URL}/video/predict\", files=files)\n        print(resp.json())\nif __name__ == \"__main__\":",
+        "detail": "Smart-guard-master.Backend.tests.test_endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "csv_to_xlsx",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.utils.log_converter",
+        "description": "Smart-guard-master.Backend.utils.log_converter",
+        "peekOfCode": "def csv_to_xlsx():\n    \"\"\"\n    Convert inference_logs.csv to inference_logs.xlsx using openpyxl\n    Requires: pip install openpyxl\n    \"\"\"\n    try:\n        from openpyxl import Workbook\n        from openpyxl.styles import Font, PatternFill, Alignment\n        csv_file = \"inference_logs.csv\"\n        xlsx_file = \"inference_logs.xlsx\"",
+        "detail": "Smart-guard-master.Backend.utils.log_converter",
+        "documentation": {}
+    },
+    {
+        "label": "csv_to_xlsx_pandas",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.utils.log_converter",
+        "description": "Smart-guard-master.Backend.utils.log_converter",
+        "peekOfCode": "def csv_to_xlsx_pandas():\n    \"\"\"\n    Alternative method using pandas\n    Requires: pip install pandas openpyxl\n    \"\"\"\n    try:\n        import pandas as pd\n        csv_file = \"inference_logs.csv\"\n        xlsx_file = \"inference_logs.xlsx\"\n        if not os.path.exists(csv_file):",
+        "detail": "Smart-guard-master.Backend.utils.log_converter",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_video",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.utils.preprocessing",
+        "description": "Smart-guard-master.Backend.utils.preprocessing",
+        "peekOfCode": "def preprocess_video(video_bytes):\n    # Save bytes temporarily\n    with tempfile.NamedTemporaryFile(delete=False, suffix=\".mp4\") as tmp:\n        tmp.write(video_bytes)\n        video_path = tmp.name\n    cap = cv2.VideoCapture(video_path)\n    frames = []\n    # Read all frames\n    while True:\n        ret, frame = cap.read()",
+        "detail": "Smart-guard-master.Backend.utils.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "SEQ_LEN",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.utils.preprocessing",
+        "description": "Smart-guard-master.Backend.utils.preprocessing",
+        "peekOfCode": "SEQ_LEN = 35\nIMG_SIZE = 128  # your model input\nCHANNELS = 3\ndef preprocess_video(video_bytes):\n    # Save bytes temporarily\n    with tempfile.NamedTemporaryFile(delete=False, suffix=\".mp4\") as tmp:\n        tmp.write(video_bytes)\n        video_path = tmp.name\n    cap = cv2.VideoCapture(video_path)\n    frames = []",
+        "detail": "Smart-guard-master.Backend.utils.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "IMG_SIZE",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.utils.preprocessing",
+        "description": "Smart-guard-master.Backend.utils.preprocessing",
+        "peekOfCode": "IMG_SIZE = 128  # your model input\nCHANNELS = 3\ndef preprocess_video(video_bytes):\n    # Save bytes temporarily\n    with tempfile.NamedTemporaryFile(delete=False, suffix=\".mp4\") as tmp:\n        tmp.write(video_bytes)\n        video_path = tmp.name\n    cap = cv2.VideoCapture(video_path)\n    frames = []\n    # Read all frames",
+        "detail": "Smart-guard-master.Backend.utils.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "CHANNELS",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.utils.preprocessing",
+        "description": "Smart-guard-master.Backend.utils.preprocessing",
+        "peekOfCode": "CHANNELS = 3\ndef preprocess_video(video_bytes):\n    # Save bytes temporarily\n    with tempfile.NamedTemporaryFile(delete=False, suffix=\".mp4\") as tmp:\n        tmp.write(video_bytes)\n        video_path = tmp.name\n    cap = cv2.VideoCapture(video_path)\n    frames = []\n    # Read all frames\n    while True:",
+        "detail": "Smart-guard-master.Backend.utils.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "get_default_organization",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.workers.stream_processor",
+        "description": "Smart-guard-master.Backend.workers.stream_processor",
+        "peekOfCode": "def get_default_organization():\n    \"\"\"Get the default organization from the first admin user\"\"\"\n    try:\n        import sqlite3\n        conn = sqlite3.connect('users.db')\n        c = conn.cursor()\n        c.execute(\"SELECT organization FROM users WHERE role = 'admin' LIMIT 1\")\n        result = c.fetchone()\n        conn.close()\n        return result[0] if result else \"Smart Guard\"",
+        "detail": "Smart-guard-master.Backend.workers.stream_processor",
+        "documentation": {}
+    },
+    {
+        "label": "process_video_stream",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.workers.stream_processor",
+        "description": "Smart-guard-master.Backend.workers.stream_processor",
+        "peekOfCode": "def process_video_stream(video_source=0, video_id=None, organization=None):\n    \"\"\"\n    Main loop for MJPEG video stream with abnormal behavior detection.\n    This runs in a background thread.\n    \"\"\"\n    global last_alert_times\n    global latest_pred\n    # Use cam1 as default video_id if not provided\n    if video_id is None:\n        video_id = \"cam1\"",
+        "detail": "Smart-guard-master.Backend.workers.stream_processor",
+        "documentation": {}
+    },
+    {
+        "label": "log_inference_result",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.workers.stream_processor",
+        "description": "Smart-guard-master.Backend.workers.stream_processor",
+        "peekOfCode": "def log_inference_result(video_id, is_abnormal, confidence):\n    import csv\n    from datetime import datetime\n    csv_file = \"inference_logs.csv\"\n    try:\n        with open(csv_file, mode=\"a\", newline=\"\") as f:\n            writer = csv.writer(f)\n            timestamp = datetime.now().isoformat()\n            writer.writerow([timestamp, video_id, f\"{confidence:.4f}\", \"0.161\", str(is_abnormal)])\n    except Exception as e:",
+        "detail": "Smart-guard-master.Backend.workers.stream_processor",
+        "documentation": {}
+    },
+    {
+        "label": "last_alert_times",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.workers.stream_processor",
+        "description": "Smart-guard-master.Backend.workers.stream_processor",
+        "peekOfCode": "last_alert_times = {}\nALERT_COOLDOWN_SECONDS = 90 # Wait 90 seconds between alerts for the same camera\ndef process_video_stream(video_source=0, video_id=None, organization=None):\n    \"\"\"\n    Main loop for MJPEG video stream with abnormal behavior detection.\n    This runs in a background thread.\n    \"\"\"\n    global last_alert_times\n    global latest_pred\n    # Use cam1 as default video_id if not provided",
+        "detail": "Smart-guard-master.Backend.workers.stream_processor",
+        "documentation": {}
+    },
+    {
+        "label": "ALERT_COOLDOWN_SECONDS",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.workers.stream_processor",
+        "description": "Smart-guard-master.Backend.workers.stream_processor",
+        "peekOfCode": "ALERT_COOLDOWN_SECONDS = 90 # Wait 90 seconds between alerts for the same camera\ndef process_video_stream(video_source=0, video_id=None, organization=None):\n    \"\"\"\n    Main loop for MJPEG video stream with abnormal behavior detection.\n    This runs in a background thread.\n    \"\"\"\n    global last_alert_times\n    global latest_pred\n    # Use cam1 as default video_id if not provided\n    if video_id is None:",
+        "detail": "Smart-guard-master.Backend.workers.stream_processor",
+        "documentation": {}
+    },
+    {
+        "label": "check_db",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.check_db",
+        "description": "Smart-guard-master.Backend.check_db",
+        "peekOfCode": "def check_db():\n    conn = sqlite3.connect(\"smartguard.db\")\n    c = conn.cursor()\n    print(\"--- Signup Requests ---\")\n    c.execute(\"SELECT id, email, full_name, organization, role, status FROM signup_requests\")\n    rows = c.fetchall()\n    for row in rows:\n        print(row)\n    print(\"\\n--- Users ---\")\n    c.execute(\"SELECT id, email, full_name, organization, role, status FROM users\")",
+        "detail": "Smart-guard-master.Backend.check_db",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.fix_admin",
+        "description": "Smart-guard-master.Backend.fix_admin",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    salt = secrets.token_hex(16)\n    password_hash = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000)\n    return salt + '$' + password_hash.hex()\n# Create new admin with correct hash\nadmin_id = secrets.token_urlsafe(16)\nadmin_email = 'admin@smartguard.com'\nadmin_password = 'admin123456'\nadmin_org = 'Smart Guard'\nadmin_role = 'admin'",
+        "detail": "Smart-guard-master.Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.fix_admin",
+        "description": "Smart-guard-master.Backend.fix_admin",
+        "peekOfCode": "conn = sqlite3.connect('smartguard.db')\nc = conn.cursor()\n# Delete old admin if exists\nc.execute('DELETE FROM users WHERE email = ?', ('admin@smartguard.com',))\n# Hash password correctly\ndef hash_password(password: str) -> str:\n    salt = secrets.token_hex(16)\n    password_hash = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000)\n    return salt + '$' + password_hash.hex()\n# Create new admin with correct hash",
+        "detail": "Smart-guard-master.Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.fix_admin",
+        "description": "Smart-guard-master.Backend.fix_admin",
+        "peekOfCode": "c = conn.cursor()\n# Delete old admin if exists\nc.execute('DELETE FROM users WHERE email = ?', ('admin@smartguard.com',))\n# Hash password correctly\ndef hash_password(password: str) -> str:\n    salt = secrets.token_hex(16)\n    password_hash = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000)\n    return salt + '$' + password_hash.hex()\n# Create new admin with correct hash\nadmin_id = secrets.token_urlsafe(16)",
+        "detail": "Smart-guard-master.Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin_id",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.fix_admin",
+        "description": "Smart-guard-master.Backend.fix_admin",
+        "peekOfCode": "admin_id = secrets.token_urlsafe(16)\nadmin_email = 'admin@smartguard.com'\nadmin_password = 'admin123456'\nadmin_org = 'Smart Guard'\nadmin_role = 'admin'\npassword_hash = hash_password(admin_password)\nc.execute('''INSERT INTO users (id, email, full_name, password_hash, organization, role, status)\nVALUES (?, ?, ?, ?, ?, ?, ?)''', \n(admin_id, admin_email, 'System Admin', password_hash, admin_org, admin_role, 'approved'))\nconn.commit()",
+        "detail": "Smart-guard-master.Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin_email",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.fix_admin",
+        "description": "Smart-guard-master.Backend.fix_admin",
+        "peekOfCode": "admin_email = 'admin@smartguard.com'\nadmin_password = 'admin123456'\nadmin_org = 'Smart Guard'\nadmin_role = 'admin'\npassword_hash = hash_password(admin_password)\nc.execute('''INSERT INTO users (id, email, full_name, password_hash, organization, role, status)\nVALUES (?, ?, ?, ?, ?, ?, ?)''', \n(admin_id, admin_email, 'System Admin', password_hash, admin_org, admin_role, 'approved'))\nconn.commit()\nconn.close()",
+        "detail": "Smart-guard-master.Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin_password",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.fix_admin",
+        "description": "Smart-guard-master.Backend.fix_admin",
+        "peekOfCode": "admin_password = 'admin123456'\nadmin_org = 'Smart Guard'\nadmin_role = 'admin'\npassword_hash = hash_password(admin_password)\nc.execute('''INSERT INTO users (id, email, full_name, password_hash, organization, role, status)\nVALUES (?, ?, ?, ?, ?, ?, ?)''', \n(admin_id, admin_email, 'System Admin', password_hash, admin_org, admin_role, 'approved'))\nconn.commit()\nconn.close()\nprint('✅ Admin account created successfully!')",
+        "detail": "Smart-guard-master.Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin_org",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.fix_admin",
+        "description": "Smart-guard-master.Backend.fix_admin",
+        "peekOfCode": "admin_org = 'Smart Guard'\nadmin_role = 'admin'\npassword_hash = hash_password(admin_password)\nc.execute('''INSERT INTO users (id, email, full_name, password_hash, organization, role, status)\nVALUES (?, ?, ?, ?, ?, ?, ?)''', \n(admin_id, admin_email, 'System Admin', password_hash, admin_org, admin_role, 'approved'))\nconn.commit()\nconn.close()\nprint('✅ Admin account created successfully!')\nprint('Email: admin@smartguard.com')",
+        "detail": "Smart-guard-master.Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin_role",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.fix_admin",
+        "description": "Smart-guard-master.Backend.fix_admin",
+        "peekOfCode": "admin_role = 'admin'\npassword_hash = hash_password(admin_password)\nc.execute('''INSERT INTO users (id, email, full_name, password_hash, organization, role, status)\nVALUES (?, ?, ?, ?, ?, ?, ?)''', \n(admin_id, admin_email, 'System Admin', password_hash, admin_org, admin_role, 'approved'))\nconn.commit()\nconn.close()\nprint('✅ Admin account created successfully!')\nprint('Email: admin@smartguard.com')\nprint('Password: admin123456')",
+        "detail": "Smart-guard-master.Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "password_hash",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.fix_admin",
+        "description": "Smart-guard-master.Backend.fix_admin",
+        "peekOfCode": "password_hash = hash_password(admin_password)\nc.execute('''INSERT INTO users (id, email, full_name, password_hash, organization, role, status)\nVALUES (?, ?, ?, ?, ?, ?, ?)''', \n(admin_id, admin_email, 'System Admin', password_hash, admin_org, admin_role, 'approved'))\nconn.commit()\nconn.close()\nprint('✅ Admin account created successfully!')\nprint('Email: admin@smartguard.com')\nprint('Password: admin123456')\nprint('Organization: Smart Guard')",
+        "detail": "Smart-guard-master.Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "App",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.gui",
+        "description": "Smart-guard-master.Backend.gui",
+        "peekOfCode": "class App(tk.Tk):\n    def __init__(self):\n        super().__init__()\n        self.title(\"Abnormal Behavior Checker\")\n        self.geometry(\"420x200\")\n        self.label = tk.Label(self, text=\"Choose source\")\n        self.label.pack(pady=10)\n        self.btn_cam = tk.Button(self, text=\"Use Camera\", command=self.on_camera)\n        self.btn_cam.pack(pady=5)\n        self.btn_upload = tk.Button(self, text=\"Upload Video\", command=self.on_upload)",
+        "detail": "Smart-guard-master.Backend.gui",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionManager",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "class ConnectionManager:\n    def __init__(self):\n        self.active_connections: List[WebSocket] = []\n    async def connect(self, websocket: WebSocket):\n        await websocket.accept()\n        self.active_connections.append(websocket)\n    def disconnect(self, websocket: WebSocket):\n        self.active_connections.remove(websocket)\n    async def broadcast(self, message: str):\n        for connection in self.active_connections:",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "def root():\n    return {\"message\": \"Backend is running\"}\n# -----------------------------\n# Dashboard endpoint\n# -----------------------------\n@app.get(\"/dashboard\")\ndef dashboard():\n    import csv\n    import sqlite3\n    from datetime import datetime, timedelta",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "def dashboard():\n    import csv\n    import sqlite3\n    from datetime import datetime, timedelta\n    try:\n        # Read inference logs\n        with open(\"inference_logs.csv\", \"r\") as f:\n            reader = csv.DictReader(f)\n            all_rows = list(reader)\n        # Filter for abnormal behavior",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "logs",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "def logs(format: str = \"csv\"):\n    \"\"\"Serve inference logs in CSV or XLSX format\"\"\"\n    try:\n        csv_file = \"inference_logs.csv\"\n        xlsx_file = \"inference_logs.xlsx\"\n        # Ensure CSV exists\n        if not os.path.exists(csv_file):\n            with open(csv_file, mode=\"w\", newline=\"\") as f:\n                writer = csv.writer(f)\n                writer.writerow([\"timestamp\", \"video_id\", \"confidence\", \"threshold\", \"is_abnormal\", ",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "gen_frames",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "def gen_frames():\n    \"\"\"\n    Generator that yields MJPEG frames from the stream processor\n    \"\"\"\n    import time\n    from services.frame_store import get_jpeg\n    while True:\n        try:\n            # Get frame from stream processor\n            jpeg_bytes = get_jpeg()",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "live",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "def live():\n    return StreamingResponse(\n        gen_frames(),\n        media_type='multipart/x-mixed-replace; boundary=frame',\n        headers={\n            \"Cache-Control\": \"no-cache, no-store, must-revalidate\",\n            \"Pragma\": \"no-cache\",\n            \"Expires\": \"0\",\n            \"Access-Control-Allow-Origin\": \"*\"\n        }",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_latest_pred",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "def get_latest_pred():\n    from shared_state import latest_pred\n    return {\"prediction\": str(latest_pred) if latest_pred else \"No prediction yet\"}\n# Global organization variable\ncurrent_organization = \"Smart Guard\"\n@app.post(\"/set-organization\")\nasync def set_organization(request: Request):\n    \"\"\"Set the current organization for email notifications\"\"\"\n    try:\n        data = await request.json()",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_camera_status",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "def get_camera_status():\n    import shared_state\n    return {\"enabled\": shared_state.camera_enabled}\n@app.post(\"/camera/toggle\")\ndef toggle_camera():\n    import shared_state\n    try:\n        shared_state.camera_enabled = not shared_state.camera_enabled\n        print(f\"✅ Camera {'enabled' if shared_state.camera_enabled else 'disabled'}\")\n        return {\"enabled\": shared_state.camera_enabled, \"message\": f\"Camera {'enabled' if shared_state.camera_enabled else 'disabled'}\"}",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "toggle_camera",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "def toggle_camera():\n    import shared_state\n    try:\n        shared_state.camera_enabled = not shared_state.camera_enabled\n        print(f\"✅ Camera {'enabled' if shared_state.camera_enabled else 'disabled'}\")\n        return {\"enabled\": shared_state.camera_enabled, \"message\": f\"Camera {'enabled' if shared_state.camera_enabled else 'disabled'}\"}\n    except Exception as e:\n        print(f\"❌ Error toggling camera: {e}\")\n        return {\"error\": str(e)}\n# -----------------------------",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "favicon_root",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "def favicon_root():\n    return Response(content=\"\", media_type=\"image/x-icon\", status_code=204)\n@app.get(\"/@vite/client\")\ndef vite_client_root():\n    return Response(content=\"\", media_type=\"application/javascript\", status_code=200)",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "vite_client_root",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "def vite_client_root():\n    return Response(content=\"\", media_type=\"application/javascript\", status_code=200)",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"Abnormal Behavior Detection API\",\n    version=\"1.0.0\"\n)\n# Connection Manager for WebSockets\nclass ConnectionManager:\n    def __init__(self):\n        self.active_connections: List[WebSocket] = []\n    async def connect(self, websocket: WebSocket):\n        await websocket.accept()",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "manager",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "manager = ConnectionManager()\n# WebSocket endpoint\n@app.websocket(\"/ws/alerts\")\nasync def websocket_endpoint(websocket: WebSocket):\n    await manager.connect(websocket)\n    try:\n        while True:\n            data = await websocket.receive_text()\n            print(f\"🔍 WebSocket received: '{data}'\")\n            # Handle organization setting from frontend",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "latest_pred",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "latest_pred = None\n# -----------------------------\n# Root endpoint\n# -----------------------------\n@app.get(\"/\")\ndef root():\n    return {\"message\": \"Backend is running\"}\n# -----------------------------\n# Dashboard endpoint\n# -----------------------------",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "current_organization",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.main",
+        "description": "Smart-guard-master.Backend.main",
+        "peekOfCode": "current_organization = \"Smart Guard\"\n@app.post(\"/set-organization\")\nasync def set_organization(request: Request):\n    \"\"\"Set the current organization for email notifications\"\"\"\n    try:\n        data = await request.json()\n        organization = data.get('organization', 'Smart Guard')\n        global current_organization\n        current_organization = organization\n        print(f\"🏢 Organization set to: {organization}\")",
+        "detail": "Smart-guard-master.Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "process_video_stream_debug",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.run_stream",
+        "description": "Smart-guard-master.Backend.run_stream",
+        "peekOfCode": "def process_video_stream_debug(video_source=VIDEO_SOURCE, video_id=VIDEO_ID, show_window=True):\n    print(\"Opening video source:\", video_source)\n    cap = cv2.VideoCapture(video_source)\n    if not cap.isOpened():\n        print(\"Error: Cannot open video source\")\n        return\n    frames = []\n    print(\"Video source opened successfully. Starting frame capture...\")\n    try:\n        while True:",
+        "detail": "Smart-guard-master.Backend.run_stream",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_SOURCE",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.run_stream",
+        "description": "Smart-guard-master.Backend.run_stream",
+        "peekOfCode": "VIDEO_SOURCE = 0      # 0 = webcam or path to video\nVIDEO_ID = \"cam1\"     # video ID for Redis or storage\nSEQ_LEN = 35          # number of frames per inference\ndef process_video_stream_debug(video_source=VIDEO_SOURCE, video_id=VIDEO_ID, show_window=True):\n    print(\"Opening video source:\", video_source)\n    cap = cv2.VideoCapture(video_source)\n    if not cap.isOpened():\n        print(\"Error: Cannot open video source\")\n        return\n    frames = []",
+        "detail": "Smart-guard-master.Backend.run_stream",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_ID",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.run_stream",
+        "description": "Smart-guard-master.Backend.run_stream",
+        "peekOfCode": "VIDEO_ID = \"cam1\"     # video ID for Redis or storage\nSEQ_LEN = 35          # number of frames per inference\ndef process_video_stream_debug(video_source=VIDEO_SOURCE, video_id=VIDEO_ID, show_window=True):\n    print(\"Opening video source:\", video_source)\n    cap = cv2.VideoCapture(video_source)\n    if not cap.isOpened():\n        print(\"Error: Cannot open video source\")\n        return\n    frames = []\n    print(\"Video source opened successfully. Starting frame capture...\")",
+        "detail": "Smart-guard-master.Backend.run_stream",
+        "documentation": {}
+    },
+    {
+        "label": "SEQ_LEN",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.run_stream",
+        "description": "Smart-guard-master.Backend.run_stream",
+        "peekOfCode": "SEQ_LEN = 35          # number of frames per inference\ndef process_video_stream_debug(video_source=VIDEO_SOURCE, video_id=VIDEO_ID, show_window=True):\n    print(\"Opening video source:\", video_source)\n    cap = cv2.VideoCapture(video_source)\n    if not cap.isOpened():\n        print(\"Error: Cannot open video source\")\n        return\n    frames = []\n    print(\"Video source opened successfully. Starting frame capture...\")\n    try:",
+        "detail": "Smart-guard-master.Backend.run_stream",
+        "documentation": {}
+    },
+    {
+        "label": "latest_pred",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.shared_state",
+        "description": "Smart-guard-master.Backend.shared_state",
+        "peekOfCode": "latest_pred = None\ncamera_enabled = True # Default to True\nloop = None # Global event loop for WebSockets",
+        "detail": "Smart-guard-master.Backend.shared_state",
+        "documentation": {}
+    },
+    {
+        "label": "camera_enabled",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.shared_state",
+        "description": "Smart-guard-master.Backend.shared_state",
+        "peekOfCode": "camera_enabled = True # Default to True\nloop = None # Global event loop for WebSockets",
+        "detail": "Smart-guard-master.Backend.shared_state",
+        "documentation": {}
+    },
+    {
+        "label": "loop",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.shared_state",
+        "description": "Smart-guard-master.Backend.shared_state",
+        "peekOfCode": "loop = None # Global event loop for WebSockets",
+        "detail": "Smart-guard-master.Backend.shared_state",
+        "documentation": {}
+    },
+    {
+        "label": "run_backend",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.start_backend",
+        "description": "Smart-guard-master.Backend.start_backend",
+        "peekOfCode": "def run_backend():\n    shared_state.loop = asyncio.new_event_loop()\n    asyncio.set_event_loop(shared_state.loop)\n    config = uvicorn.Config(\"main:app\", host=\"127.0.0.1\", port=8001, loop=\"asyncio\")\n    server = uvicorn.Server(config)\n    shared_state.loop.run_until_complete(server.serve())\ndef run_stream():\n    time.sleep(3)  # Increased wait time for backend and event loop to initialize\n    print(\"Starting stream processor with preprocessing and 35-frame analysis...\")\n    try:",
+        "detail": "Smart-guard-master.Backend.start_backend",
+        "documentation": {}
+    },
+    {
+        "label": "run_stream",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Backend.start_backend",
+        "description": "Smart-guard-master.Backend.start_backend",
+        "peekOfCode": "def run_stream():\n    time.sleep(3)  # Increased wait time for backend and event loop to initialize\n    print(\"Starting stream processor with preprocessing and 35-frame analysis...\")\n    try:\n        process_video_stream(video_source=VIDEO_SOURCE, video_id=VIDEO_ID)\n    except Exception as e:\n        print(\"Error in video stream:\", e)\nif __name__ == \"__main__\":\n    # Run backend in a daemon thread\n    backend_thread = threading.Thread(target=run_backend, daemon=True)",
+        "detail": "Smart-guard-master.Backend.start_backend",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_SOURCE",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.start_backend",
+        "description": "Smart-guard-master.Backend.start_backend",
+        "peekOfCode": "VIDEO_SOURCE = 0\nVIDEO_ID = \"cam1\"\ndef run_backend():\n    shared_state.loop = asyncio.new_event_loop()\n    asyncio.set_event_loop(shared_state.loop)\n    config = uvicorn.Config(\"main:app\", host=\"127.0.0.1\", port=8001, loop=\"asyncio\")\n    server = uvicorn.Server(config)\n    shared_state.loop.run_until_complete(server.serve())\ndef run_stream():\n    time.sleep(3)  # Increased wait time for backend and event loop to initialize",
+        "detail": "Smart-guard-master.Backend.start_backend",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_ID",
+        "kind": 5,
+        "importPath": "Smart-guard-master.Backend.start_backend",
+        "description": "Smart-guard-master.Backend.start_backend",
+        "peekOfCode": "VIDEO_ID = \"cam1\"\ndef run_backend():\n    shared_state.loop = asyncio.new_event_loop()\n    asyncio.set_event_loop(shared_state.loop)\n    config = uvicorn.Config(\"main:app\", host=\"127.0.0.1\", port=8001, loop=\"asyncio\")\n    server = uvicorn.Server(config)\n    shared_state.loop.run_until_complete(server.serve())\ndef run_stream():\n    time.sleep(3)  # Increased wait time for backend and event loop to initialize\n    print(\"Starting stream processor with preprocessing and 35-frame analysis...\")",
+        "detail": "Smart-guard-master.Backend.start_backend",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Frontend.node_modules.flatted.python.flatted",
+        "description": "Smart-guard-master.Frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "Smart-guard-master.Frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "Smart-guard-master.Frontend.node_modules.flatted.python.flatted",
+        "description": "Smart-guard-master.Frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "Smart-guard-master.Frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Frontend.node_modules.flatted.python.flatted",
+        "description": "Smart-guard-master.Frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "Smart-guard-master.Frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "Smart-guard-master.Frontend.node_modules.flatted.python.flatted",
+        "description": "Smart-guard-master.Frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "Smart-guard-master.Frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    }
+]
