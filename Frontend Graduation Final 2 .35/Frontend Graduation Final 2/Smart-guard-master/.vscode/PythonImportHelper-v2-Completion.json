@@ -1,0 +1,1571 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "config.settings",
+        "description": "config.settings",
+        "isExtraImport": true,
+        "detail": "config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Notifier",
+        "importPath": "services.notifier",
+        "description": "services.notifier",
+        "isExtraImport": true,
+        "detail": "services.notifier",
+        "documentation": {}
+    },
+    {
+        "label": "Notifier",
+        "importPath": "services.notifier",
+        "description": "services.notifier",
+        "isExtraImport": true,
+        "detail": "services.notifier",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "secrets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "secrets",
+        "description": "secrets",
+        "detail": "secrets",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "send_signup_notification_dev",
+        "importPath": "services.email_service",
+        "description": "services.email_service",
+        "isExtraImport": true,
+        "detail": "services.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "FileResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "bus",
+        "importPath": "services.event_bus",
+        "description": "services.event_bus",
+        "isExtraImport": true,
+        "detail": "services.event_bus",
+        "documentation": {}
+    },
+    {
+        "label": "bus",
+        "importPath": "services.event_bus",
+        "description": "services.event_bus",
+        "isExtraImport": true,
+        "detail": "services.event_bus",
+        "documentation": {}
+    },
+    {
+        "label": "AbnormalBehaviorDetector",
+        "importPath": "services.detector",
+        "description": "services.detector",
+        "isExtraImport": true,
+        "detail": "services.detector",
+        "documentation": {}
+    },
+    {
+        "label": "RedisManager",
+        "importPath": "services.redis_manager",
+        "description": "services.redis_manager",
+        "isExtraImport": true,
+        "detail": "services.redis_manager",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "pathlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "AbnormalModel",
+        "importPath": "models.abnormal_model",
+        "description": "models.abnormal_model",
+        "isExtraImport": true,
+        "detail": "models.abnormal_model",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionResponse",
+        "importPath": "schemas.prediction",
+        "description": "schemas.prediction",
+        "isExtraImport": true,
+        "detail": "schemas.prediction",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "frame_store",
+        "importPath": "services.frame_store",
+        "description": "services.frame_store",
+        "isExtraImport": true,
+        "detail": "services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "set_jpeg",
+        "importPath": "services.frame_store",
+        "description": "services.frame_store",
+        "isExtraImport": true,
+        "detail": "services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "frame_store",
+        "importPath": "services.frame_store",
+        "description": "services.frame_store",
+        "isExtraImport": true,
+        "detail": "services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_video",
+        "importPath": "utils.preprocessing",
+        "description": "utils.preprocessing",
+        "isExtraImport": true,
+        "detail": "utils.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "latest_pred",
+        "importPath": "shared_state",
+        "description": "shared_state",
+        "isExtraImport": true,
+        "detail": "shared_state",
+        "documentation": {}
+    },
+    {
+        "label": "latest_pred",
+        "importPath": "shared_state",
+        "description": "shared_state",
+        "isExtraImport": true,
+        "detail": "shared_state",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "run_inference",
+        "importPath": "routers.inference",
+        "description": "routers.inference",
+        "isExtraImport": true,
+        "detail": "routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "run_inference",
+        "importPath": "routers.inference",
+        "description": "routers.inference",
+        "isExtraImport": true,
+        "detail": "routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routers.auth",
+        "description": "routers.auth",
+        "isExtraImport": true,
+        "detail": "routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "csv_to_xlsx",
+        "importPath": "utils.log_converter",
+        "description": "utils.log_converter",
+        "isExtraImport": true,
+        "detail": "utils.log_converter",
+        "documentation": {}
+    },
+    {
+        "label": "process_video_stream",
+        "importPath": "workers.stream_processor",
+        "description": "workers.stream_processor",
+        "isExtraImport": true,
+        "detail": "workers.stream_processor",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "Backend.config.settings",
+        "description": "Backend.config.settings",
+        "peekOfCode": "class Settings:\n    MODEL_PATH = os.getenv(\"MODEL_PATH\", r\"D:\\graduation project\\trying\\best conv 3d 85%\\my_model_fight_cnn_bilstm10 (3).keras\")\n    SEQ_LEN = 35\n    IMG_SIZE = 128\n    CHANNELS = 3\n    # Redis config\n    REDIS_HOST = os.getenv(\"REDIS_HOST\", \"localhost\")\n    REDIS_PORT = int(os.getenv(\"REDIS_PORT\", 6379))\n    REDIS_DB = int(os.getenv(\"REDIS_DB\", 0))\n    # Threshold for abnormal detection",
+        "detail": "Backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "Backend.config.settings",
+        "description": "Backend.config.settings",
+        "peekOfCode": "settings = Settings()",
+        "detail": "Backend.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "log_event",
+        "kind": 2,
+        "importPath": "Backend.logs.events",
+        "description": "Backend.logs.events",
+        "peekOfCode": "def log_event(event_type: str, message: str):\n    timestamp = datetime.datetime.now().isoformat()\n    print(f\"[{timestamp}] [{event_type.upper()}] {message}\")",
+        "detail": "Backend.logs.events",
+        "documentation": {}
+    },
+    {
+        "label": "AttentionPooling",
+        "kind": 6,
+        "importPath": "Backend.models.tensorflow_free_abnormal_model",
+        "description": "Backend.models.tensorflow_free_abnormal_model",
+        "peekOfCode": "class AttentionPooling:\n    \"\"\"Mock AttentionPooling layer for TensorFlow-free version\"\"\"\n    def call(self, inputs):\n        # Simulate attention pooling behavior\n        attn_out, attn_scores = inputs\n        # Simple averaging as attention simulation\n        return np.mean(attn_out, axis=1)\nclass TensorFlowFreeAbnormalModel:\n    \"\"\"TensorFlow-free version of AbnormalModel that simulates realistic predictions\"\"\"\n    def __init__(self, model_path=None):",
+        "detail": "Backend.models.tensorflow_free_abnormal_model",
+        "documentation": {}
+    },
+    {
+        "label": "TensorFlowFreeAbnormalModel",
+        "kind": 6,
+        "importPath": "Backend.models.tensorflow_free_abnormal_model",
+        "description": "Backend.models.tensorflow_free_abnormal_model",
+        "peekOfCode": "class TensorFlowFreeAbnormalModel:\n    \"\"\"TensorFlow-free version of AbnormalModel that simulates realistic predictions\"\"\"\n    def __init__(self, model_path=None):\n        # Use the specific model path from settings\n        self.model_path = model_path or settings.MODEL_PATH\n        print(f\"Loading TensorFlow-free model simulation from: {self.model_path}\")\n        self.prediction_count = 0\n        print(\"✅ TensorFlow-free model loaded successfully (simulation mode)\")\n    def predict(self, frames_tensor):\n        \"\"\"Simulate model prediction based on preprocessed frames\"\"\"",
+        "detail": "Backend.models.tensorflow_free_abnormal_model",
+        "documentation": {}
+    },
+    {
+        "label": "send_abnormal_alert",
+        "kind": 2,
+        "importPath": "Backend.routers.alerts",
+        "description": "Backend.routers.alerts",
+        "peekOfCode": "def send_abnormal_alert(confidence: float):\n    message = f\" Abnormal behavior detected! Confidence: {confidence:.2f}\"\n    notifier.send_alert(message)",
+        "detail": "Backend.routers.alerts",
+        "documentation": {}
+    },
+    {
+        "label": "notifier",
+        "kind": 5,
+        "importPath": "Backend.routers.alerts",
+        "description": "Backend.routers.alerts",
+        "peekOfCode": "notifier = Notifier(webhook_url=None)  # لو عندك URL حطيه هنا\ndef send_abnormal_alert(confidence: float):\n    message = f\" Abnormal behavior detected! Confidence: {confidence:.2f}\"\n    notifier.send_alert(message)",
+        "detail": "Backend.routers.alerts",
+        "documentation": {}
+    },
+    {
+        "label": "SignupRequest",
+        "kind": 6,
+        "importPath": "Backend.routers.auth",
+        "description": "Backend.routers.auth",
+        "peekOfCode": "class SignupRequest(BaseModel):\n    email: str\n    password: str\n    full_name: str\n    organization: str\n    role: str = \"security_man\"  # 'security_man' or 'admin'\nclass SigninRequest(BaseModel):\n    email: str\n    password: str\nclass SignupRequestModel(BaseModel):",
+        "detail": "Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "SigninRequest",
+        "kind": 6,
+        "importPath": "Backend.routers.auth",
+        "description": "Backend.routers.auth",
+        "peekOfCode": "class SigninRequest(BaseModel):\n    email: str\n    password: str\nclass SignupRequestModel(BaseModel):\n    id: str\n    email: str\n    full_name: str\n    organization: str\n    role: str\n    status: str",
+        "detail": "Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "SignupRequestModel",
+        "kind": 6,
+        "importPath": "Backend.routers.auth",
+        "description": "Backend.routers.auth",
+        "peekOfCode": "class SignupRequestModel(BaseModel):\n    id: str\n    email: str\n    full_name: str\n    organization: str\n    role: str\n    status: str\n    created_at: str\nclass UserResponse(BaseModel):\n    id: str",
+        "detail": "Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "Backend.routers.auth",
+        "description": "Backend.routers.auth",
+        "peekOfCode": "class UserResponse(BaseModel):\n    id: str\n    email: str\n    full_name: str\n    organization: str\n    role: str\n    status: str\n    created_at: str\n# Helper functions\ndef hash_password(password: str) -> str:",
+        "detail": "Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "kind": 2,
+        "importPath": "Backend.routers.auth",
+        "description": "Backend.routers.auth",
+        "peekOfCode": "def init_db():\n    \"\"\"Initialize database with users and signup requests tables\"\"\"\n    conn = sqlite3.connect(\"smartguard.db\")\n    c = conn.cursor()\n    # Users table\n    c.execute('''\n        CREATE TABLE IF NOT EXISTS users (\n            id TEXT PRIMARY KEY,\n            email TEXT UNIQUE NOT NULL,\n            full_name TEXT NOT NULL,",
+        "detail": "Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "Backend.routers.auth",
+        "description": "Backend.routers.auth",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    \"\"\"Hash password with salt\"\"\"\n    salt = secrets.token_hex(16)\n    password_hash = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000)\n    return f\"{salt}${password_hash.hex()}\"\ndef verify_password(password: str, password_hash: str) -> bool:\n    \"\"\"Verify password against hash\"\"\"\n    try:\n        salt, hash_part = password_hash.split('$')\n        password_check = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000)",
+        "detail": "Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "Backend.routers.auth",
+        "description": "Backend.routers.auth",
+        "peekOfCode": "def verify_password(password: str, password_hash: str) -> bool:\n    \"\"\"Verify password against hash\"\"\"\n    try:\n        salt, hash_part = password_hash.split('$')\n        password_check = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000)\n        return password_check.hex() == hash_part\n    except:\n        return False\ndef generate_token(user_id: str, organization: str, role: str) -> str:\n    \"\"\"Generate token with user info encoded\"\"\"",
+        "detail": "Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "generate_token",
+        "kind": 2,
+        "importPath": "Backend.routers.auth",
+        "description": "Backend.routers.auth",
+        "peekOfCode": "def generate_token(user_id: str, organization: str, role: str) -> str:\n    \"\"\"Generate token with user info encoded\"\"\"\n    token_data = {\n        \"user_id\": user_id,\n        \"organization\": organization,\n        \"role\": role\n    }\n    token_json = json.dumps(token_data)\n    token = base64.b64encode(token_json.encode()).decode()\n    return token",
+        "detail": "Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "kind": 2,
+        "importPath": "Backend.routers.auth",
+        "description": "Backend.routers.auth",
+        "peekOfCode": "def decode_token(token: str) -> dict:\n    \"\"\"Decode token to get user info\"\"\"\n    try:\n        token_json = base64.b64decode(token.encode()).decode()\n        return json.loads(token_json)\n    except:\n        return None\ndef get_user_organization(authorization_header: str = Header(None)) -> str:\n    \"\"\"Extract organization from authorization token\"\"\"\n    if not authorization_header:",
+        "detail": "Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_organization",
+        "kind": 2,
+        "importPath": "Backend.routers.auth",
+        "description": "Backend.routers.auth",
+        "peekOfCode": "def get_user_organization(authorization_header: str = Header(None)) -> str:\n    \"\"\"Extract organization from authorization token\"\"\"\n    if not authorization_header:\n        raise HTTPException(status_code=401, detail=\"Missing authorization header\")\n    try:\n        token = authorization_header.replace(\"Bearer \", \"\")\n        token_data = decode_token(token)\n        if not token_data or \"organization\" not in token_data:\n            raise HTTPException(status_code=401, detail=\"Invalid token\")\n        return token_data[\"organization\"]",
+        "detail": "Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "Backend.routers.auth",
+        "description": "Backend.routers.auth",
+        "peekOfCode": "def get_db():\n    \"\"\"Get database connection\"\"\"\n    return sqlite3.connect(\"smartguard.db\")\n# Endpoints\n@router.post(\"/signup\")\nasync def signup(request: SignupRequest):\n    \"\"\"Register a new user\"\"\"\n    init_db()\n    conn = get_db()\n    c = conn.cursor()",
+        "detail": "Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Backend.routers.auth",
+        "description": "Backend.routers.auth",
+        "peekOfCode": "router = APIRouter(prefix=\"/auth\", tags=[\"auth\"])\n# Database setup\ndef init_db():\n    \"\"\"Initialize database with users and signup requests tables\"\"\"\n    conn = sqlite3.connect(\"smartguard.db\")\n    c = conn.cursor()\n    # Users table\n    c.execute('''\n        CREATE TABLE IF NOT EXISTS users (\n            id TEXT PRIMARY KEY,",
+        "detail": "Backend.routers.auth",
+        "documentation": {}
+    },
+    {
+        "label": "ThresholdPayload",
+        "kind": 6,
+        "importPath": "Backend.routers.config_router",
+        "description": "Backend.routers.config_router",
+        "peekOfCode": "class ThresholdPayload(BaseModel):\n    threshold: float\n@router.get(\"/threshold\")\ndef get_threshold():\n    return {\"threshold\": settings.ABNORMAL_THRESHOLD}\n@router.post(\"/threshold\")\ndef set_threshold(payload: ThresholdPayload):\n    t = payload.threshold\n    if not (0.0 <= t <= 1.0):\n        raise HTTPException(status_code=400, detail=\"Threshold must be between 0.0 and 1.0\")",
+        "detail": "Backend.routers.config_router",
+        "documentation": {}
+    },
+    {
+        "label": "get_threshold",
+        "kind": 2,
+        "importPath": "Backend.routers.config_router",
+        "description": "Backend.routers.config_router",
+        "peekOfCode": "def get_threshold():\n    return {\"threshold\": settings.ABNORMAL_THRESHOLD}\n@router.post(\"/threshold\")\ndef set_threshold(payload: ThresholdPayload):\n    t = payload.threshold\n    if not (0.0 <= t <= 1.0):\n        raise HTTPException(status_code=400, detail=\"Threshold must be between 0.0 and 1.0\")\n    settings.ABNORMAL_THRESHOLD = float(t)\n    return {\"threshold\": settings.ABNORMAL_THRESHOLD}",
+        "detail": "Backend.routers.config_router",
+        "documentation": {}
+    },
+    {
+        "label": "set_threshold",
+        "kind": 2,
+        "importPath": "Backend.routers.config_router",
+        "description": "Backend.routers.config_router",
+        "peekOfCode": "def set_threshold(payload: ThresholdPayload):\n    t = payload.threshold\n    if not (0.0 <= t <= 1.0):\n        raise HTTPException(status_code=400, detail=\"Threshold must be between 0.0 and 1.0\")\n    settings.ABNORMAL_THRESHOLD = float(t)\n    return {\"threshold\": settings.ABNORMAL_THRESHOLD}",
+        "detail": "Backend.routers.config_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Backend.routers.config_router",
+        "description": "Backend.routers.config_router",
+        "peekOfCode": "router = APIRouter(prefix=\"/config\", tags=[\"Config\"])\nclass ThresholdPayload(BaseModel):\n    threshold: float\n@router.get(\"/threshold\")\ndef get_threshold():\n    return {\"threshold\": settings.ABNORMAL_THRESHOLD}\n@router.post(\"/threshold\")\ndef set_threshold(payload: ThresholdPayload):\n    t = payload.threshold\n    if not (0.0 <= t <= 1.0):",
+        "detail": "Backend.routers.config_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Backend.routers.events_router",
+        "description": "Backend.routers.events_router",
+        "peekOfCode": "router = APIRouter(prefix=\"/events\", tags=[\"Events\"])\nasync def sse_generator():\n    q = await bus.subscribe()\n    try:\n        yield \"retry: 5000\\n\\n\"\n        while True:\n            try:\n                event = await asyncio.wait_for(q.get(), timeout=1.0)\n                data = json.dumps(event, ensure_ascii=False)\n                yield f\"data: {data}\\n\\n\"",
+        "detail": "Backend.routers.events_router",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 2,
+        "importPath": "Backend.routers.frontend_router",
+        "description": "Backend.routers.frontend_router",
+        "peekOfCode": "def root():\n    return {\"message\": \"Frontend router placeholder\"}",
+        "detail": "Backend.routers.frontend_router",
+        "documentation": {}
+    },
+    {
+        "label": "frontend_router",
+        "kind": 5,
+        "importPath": "Backend.routers.frontend_router",
+        "description": "Backend.routers.frontend_router",
+        "peekOfCode": "frontend_router = APIRouter()\n@frontend_router.get(\"/\")\ndef root():\n    return {\"message\": \"Frontend router placeholder\"}",
+        "detail": "Backend.routers.frontend_router",
+        "documentation": {}
+    },
+    {
+        "label": "run_inference",
+        "kind": 2,
+        "importPath": "Backend.routers.inference",
+        "description": "Backend.routers.inference",
+        "peekOfCode": "def run_inference(video_bytes, video_id=None):\n    global alert_active\n    print(f\"Using model path: {detector.model.model_path}\")\n    result = detector.predict(video_bytes)\n    print(f\"Inference: confidence={result['confidence']:.3f}, threshold={settings.ABNORMAL_THRESHOLD}, abnormal={result['is_abnormal']}\")\n    saved_video_path = None\n    if result[\"is_abnormal\"]:\n        if not alert_active:\n            notifier.send_alert(f\"Abnormal behavior detected! Confidence: {result['confidence']:.2f}\")\n            alert_active = True",
+        "detail": "Backend.routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "detector",
+        "kind": 5,
+        "importPath": "Backend.routers.inference",
+        "description": "Backend.routers.inference",
+        "peekOfCode": "detector = AbnormalBehaviorDetector()\nnotifier = Notifier(webhook_url=settings.WEBHOOK_URL)\nredis_manager = RedisManager()\nalert_active = False\ndef run_inference(video_bytes, video_id=None):\n    global alert_active\n    print(f\"Using model path: {detector.model.model_path}\")\n    result = detector.predict(video_bytes)\n    print(f\"Inference: confidence={result['confidence']:.3f}, threshold={settings.ABNORMAL_THRESHOLD}, abnormal={result['is_abnormal']}\")\n    saved_video_path = None",
+        "detail": "Backend.routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "notifier",
+        "kind": 5,
+        "importPath": "Backend.routers.inference",
+        "description": "Backend.routers.inference",
+        "peekOfCode": "notifier = Notifier(webhook_url=settings.WEBHOOK_URL)\nredis_manager = RedisManager()\nalert_active = False\ndef run_inference(video_bytes, video_id=None):\n    global alert_active\n    print(f\"Using model path: {detector.model.model_path}\")\n    result = detector.predict(video_bytes)\n    print(f\"Inference: confidence={result['confidence']:.3f}, threshold={settings.ABNORMAL_THRESHOLD}, abnormal={result['is_abnormal']}\")\n    saved_video_path = None\n    if result[\"is_abnormal\"]:",
+        "detail": "Backend.routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "redis_manager",
+        "kind": 5,
+        "importPath": "Backend.routers.inference",
+        "description": "Backend.routers.inference",
+        "peekOfCode": "redis_manager = RedisManager()\nalert_active = False\ndef run_inference(video_bytes, video_id=None):\n    global alert_active\n    print(f\"Using model path: {detector.model.model_path}\")\n    result = detector.predict(video_bytes)\n    print(f\"Inference: confidence={result['confidence']:.3f}, threshold={settings.ABNORMAL_THRESHOLD}, abnormal={result['is_abnormal']}\")\n    saved_video_path = None\n    if result[\"is_abnormal\"]:\n        if not alert_active:",
+        "detail": "Backend.routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "alert_active",
+        "kind": 5,
+        "importPath": "Backend.routers.inference",
+        "description": "Backend.routers.inference",
+        "peekOfCode": "alert_active = False\ndef run_inference(video_bytes, video_id=None):\n    global alert_active\n    print(f\"Using model path: {detector.model.model_path}\")\n    result = detector.predict(video_bytes)\n    print(f\"Inference: confidence={result['confidence']:.3f}, threshold={settings.ABNORMAL_THRESHOLD}, abnormal={result['is_abnormal']}\")\n    saved_video_path = None\n    if result[\"is_abnormal\"]:\n        if not alert_active:\n            notifier.send_alert(f\"Abnormal behavior detected! Confidence: {result['confidence']:.2f}\")",
+        "detail": "Backend.routers.inference",
+        "documentation": {}
+    },
+    {
+        "label": "video_test",
+        "kind": 2,
+        "importPath": "Backend.routers.video_router",
+        "description": "Backend.routers.video_router",
+        "peekOfCode": "def video_test():\n    return {\"status\": \"video router working\"}\n# ----------- Helper: Extract 35 frames -----------\ndef extract_frames(video_path, target_frames=35, img_size=128):\n    cap = cv2.VideoCapture(video_path)\n    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))\n    if total_frames < target_frames:\n        raise HTTPException(status_code=400, detail=\"Video too short\")\n    # Pick frames equally spaced\n    frame_indices = np.linspace(0, total_frames - 1, target_frames).astype(int)",
+        "detail": "Backend.routers.video_router",
+        "documentation": {}
+    },
+    {
+        "label": "extract_frames",
+        "kind": 2,
+        "importPath": "Backend.routers.video_router",
+        "description": "Backend.routers.video_router",
+        "peekOfCode": "def extract_frames(video_path, target_frames=35, img_size=128):\n    cap = cv2.VideoCapture(video_path)\n    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))\n    if total_frames < target_frames:\n        raise HTTPException(status_code=400, detail=\"Video too short\")\n    # Pick frames equally spaced\n    frame_indices = np.linspace(0, total_frames - 1, target_frames).astype(int)\n    frames = []\n    for idx in frame_indices:\n        cap.set(cv2.CAP_PROP_POS_FRAMES, idx)",
+        "detail": "Backend.routers.video_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Backend.routers.video_router",
+        "description": "Backend.routers.video_router",
+        "peekOfCode": "router = APIRouter(prefix=\"/video\", tags=[\"Video\"])\n# Load model once\nmodel = AbnormalModel()\n@router.get(\"/test\")\ndef video_test():\n    return {\"status\": \"video router working\"}\n# ----------- Helper: Extract 35 frames -----------\ndef extract_frames(video_path, target_frames=35, img_size=128):\n    cap = cv2.VideoCapture(video_path)\n    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))",
+        "detail": "Backend.routers.video_router",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "Backend.routers.video_router",
+        "description": "Backend.routers.video_router",
+        "peekOfCode": "model = AbnormalModel()\n@router.get(\"/test\")\ndef video_test():\n    return {\"status\": \"video router working\"}\n# ----------- Helper: Extract 35 frames -----------\ndef extract_frames(video_path, target_frames=35, img_size=128):\n    cap = cv2.VideoCapture(video_path)\n    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))\n    if total_frames < target_frames:\n        raise HTTPException(status_code=400, detail=\"Video too short\")",
+        "detail": "Backend.routers.video_router",
+        "documentation": {}
+    },
+    {
+        "label": "mjpeg_generator",
+        "kind": 2,
+        "importPath": "Backend.routers.video_stream_router",
+        "description": "Backend.routers.video_stream_router",
+        "peekOfCode": "def mjpeg_generator():\n    boundary = b\"--frame\"\n    placeholder = None\n    while True:\n        jpeg = frame_store.get_jpeg()\n        if jpeg is not None:\n            yield boundary + b\"\\r\\nContent-Type: image/jpeg\\r\\nContent-Length: \" + str(len(jpeg)).encode() + b\"\\r\\n\\r\\n\" + jpeg + b\"\\r\\n\"\n        else:\n            if placeholder is None:\n                img = np.zeros((180, 320, 3), dtype=np.uint8)",
+        "detail": "Backend.routers.video_stream_router",
+        "documentation": {}
+    },
+    {
+        "label": "mjpeg",
+        "kind": 2,
+        "importPath": "Backend.routers.video_stream_router",
+        "description": "Backend.routers.video_stream_router",
+        "peekOfCode": "def mjpeg():\n    return StreamingResponse(mjpeg_generator(), media_type=\"multipart/x-mixed-replace; boundary=frame\")",
+        "detail": "Backend.routers.video_stream_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Backend.routers.video_stream_router",
+        "description": "Backend.routers.video_stream_router",
+        "peekOfCode": "router = APIRouter(prefix=\"/stream\", tags=[\"Stream\"])\ndef mjpeg_generator():\n    boundary = b\"--frame\"\n    placeholder = None\n    while True:\n        jpeg = frame_store.get_jpeg()\n        if jpeg is not None:\n            yield boundary + b\"\\r\\nContent-Type: image/jpeg\\r\\nContent-Length: \" + str(len(jpeg)).encode() + b\"\\r\\n\\r\\n\" + jpeg + b\"\\r\\n\"\n        else:\n            if placeholder is None:",
+        "detail": "Backend.routers.video_stream_router",
+        "documentation": {}
+    },
+    {
+        "label": "PredictionResponse",
+        "kind": 6,
+        "importPath": "Backend.schemas.prediction",
+        "description": "Backend.schemas.prediction",
+        "peekOfCode": "class PredictionResponse(BaseModel):\n    is_abnormal: bool\n    confidence: float",
+        "detail": "Backend.schemas.prediction",
+        "documentation": {}
+    },
+    {
+        "label": "SMTP_SERVER",
+        "kind": 5,
+        "importPath": "Backend.services.email_service",
+        "description": "Backend.services.email_service",
+        "peekOfCode": "SMTP_SERVER = os.getenv(\"SMTP_SERVER\", \"smtp.gmail.com\")\nSMTP_PORT = int(os.getenv(\"SMTP_PORT\", \"587\"))\nSENDER_EMAIL = os.getenv(\"SENDER_EMAIL\", \"smartguard@example.com\")\nSENDER_PASSWORD = os.getenv(\"SENDER_PASSWORD\", \"\")\nMODERATOR_EMAILS = [\n    os.getenv(\"MODERATOR_EMAIL_1\", \"admin@smartguard.com\"),\n    os.getenv(\"MODERATOR_EMAIL_2\", \"moderator@smartguard.com\")\n]\nasync def send_signup_notification(email: str, full_name: str, organization: str, role: str) -> bool:\n    \"\"\"",
+        "detail": "Backend.services.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "SMTP_PORT",
+        "kind": 5,
+        "importPath": "Backend.services.email_service",
+        "description": "Backend.services.email_service",
+        "peekOfCode": "SMTP_PORT = int(os.getenv(\"SMTP_PORT\", \"587\"))\nSENDER_EMAIL = os.getenv(\"SENDER_EMAIL\", \"smartguard@example.com\")\nSENDER_PASSWORD = os.getenv(\"SENDER_PASSWORD\", \"\")\nMODERATOR_EMAILS = [\n    os.getenv(\"MODERATOR_EMAIL_1\", \"admin@smartguard.com\"),\n    os.getenv(\"MODERATOR_EMAIL_2\", \"moderator@smartguard.com\")\n]\nasync def send_signup_notification(email: str, full_name: str, organization: str, role: str) -> bool:\n    \"\"\"\n    Send email notification to moderators about new signup request",
+        "detail": "Backend.services.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "SENDER_EMAIL",
+        "kind": 5,
+        "importPath": "Backend.services.email_service",
+        "description": "Backend.services.email_service",
+        "peekOfCode": "SENDER_EMAIL = os.getenv(\"SENDER_EMAIL\", \"smartguard@example.com\")\nSENDER_PASSWORD = os.getenv(\"SENDER_PASSWORD\", \"\")\nMODERATOR_EMAILS = [\n    os.getenv(\"MODERATOR_EMAIL_1\", \"admin@smartguard.com\"),\n    os.getenv(\"MODERATOR_EMAIL_2\", \"moderator@smartguard.com\")\n]\nasync def send_signup_notification(email: str, full_name: str, organization: str, role: str) -> bool:\n    \"\"\"\n    Send email notification to moderators about new signup request\n    Args:",
+        "detail": "Backend.services.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "SENDER_PASSWORD",
+        "kind": 5,
+        "importPath": "Backend.services.email_service",
+        "description": "Backend.services.email_service",
+        "peekOfCode": "SENDER_PASSWORD = os.getenv(\"SENDER_PASSWORD\", \"\")\nMODERATOR_EMAILS = [\n    os.getenv(\"MODERATOR_EMAIL_1\", \"admin@smartguard.com\"),\n    os.getenv(\"MODERATOR_EMAIL_2\", \"moderator@smartguard.com\")\n]\nasync def send_signup_notification(email: str, full_name: str, organization: str, role: str) -> bool:\n    \"\"\"\n    Send email notification to moderators about new signup request\n    Args:\n        email: User email address",
+        "detail": "Backend.services.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "MODERATOR_EMAILS",
+        "kind": 5,
+        "importPath": "Backend.services.email_service",
+        "description": "Backend.services.email_service",
+        "peekOfCode": "MODERATOR_EMAILS = [\n    os.getenv(\"MODERATOR_EMAIL_1\", \"admin@smartguard.com\"),\n    os.getenv(\"MODERATOR_EMAIL_2\", \"moderator@smartguard.com\")\n]\nasync def send_signup_notification(email: str, full_name: str, organization: str, role: str) -> bool:\n    \"\"\"\n    Send email notification to moderators about new signup request\n    Args:\n        email: User email address\n        full_name: User's full name",
+        "detail": "Backend.services.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "EventBus",
+        "kind": 6,
+        "importPath": "Backend.services.event_bus",
+        "description": "Backend.services.event_bus",
+        "peekOfCode": "class EventBus:\n    def __init__(self):\n        self._subscribers: List[asyncio.Queue] = []\n        self._lock = asyncio.Lock()\n    async def subscribe(self) -> asyncio.Queue:\n        q: asyncio.Queue = asyncio.Queue(maxsize=100)\n        async with self._lock:\n            self._subscribers.append(q)\n        return q\n    async def unsubscribe(self, q: asyncio.Queue):",
+        "detail": "Backend.services.event_bus",
+        "documentation": {}
+    },
+    {
+        "label": "bus",
+        "kind": 5,
+        "importPath": "Backend.services.event_bus",
+        "description": "Backend.services.event_bus",
+        "peekOfCode": "bus = EventBus()",
+        "detail": "Backend.services.event_bus",
+        "documentation": {}
+    },
+    {
+        "label": "set_jpeg",
+        "kind": 2,
+        "importPath": "Backend.services.frame_store",
+        "description": "Backend.services.frame_store",
+        "peekOfCode": "def set_jpeg(jpeg_bytes):\n    global latest_jpeg\n    latest_jpeg = jpeg_bytes\ndef get_jpeg():\n    return latest_jpeg\ndef set_prediction(pred):\n    global latest_pred\n    latest_pred = pred\ndef get_prediction():\n    return latest_pred",
+        "detail": "Backend.services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "get_jpeg",
+        "kind": 2,
+        "importPath": "Backend.services.frame_store",
+        "description": "Backend.services.frame_store",
+        "peekOfCode": "def get_jpeg():\n    return latest_jpeg\ndef set_prediction(pred):\n    global latest_pred\n    latest_pred = pred\ndef get_prediction():\n    return latest_pred",
+        "detail": "Backend.services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "set_prediction",
+        "kind": 2,
+        "importPath": "Backend.services.frame_store",
+        "description": "Backend.services.frame_store",
+        "peekOfCode": "def set_prediction(pred):\n    global latest_pred\n    latest_pred = pred\ndef get_prediction():\n    return latest_pred",
+        "detail": "Backend.services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "get_prediction",
+        "kind": 2,
+        "importPath": "Backend.services.frame_store",
+        "description": "Backend.services.frame_store",
+        "peekOfCode": "def get_prediction():\n    return latest_pred",
+        "detail": "Backend.services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "latest_jpeg",
+        "kind": 5,
+        "importPath": "Backend.services.frame_store",
+        "description": "Backend.services.frame_store",
+        "peekOfCode": "latest_jpeg = None\nlatest_pred = None\ndef set_jpeg(jpeg_bytes):\n    global latest_jpeg\n    latest_jpeg = jpeg_bytes\ndef get_jpeg():\n    return latest_jpeg\ndef set_prediction(pred):\n    global latest_pred\n    latest_pred = pred",
+        "detail": "Backend.services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "latest_pred",
+        "kind": 5,
+        "importPath": "Backend.services.frame_store",
+        "description": "Backend.services.frame_store",
+        "peekOfCode": "latest_pred = None\ndef set_jpeg(jpeg_bytes):\n    global latest_jpeg\n    latest_jpeg = jpeg_bytes\ndef get_jpeg():\n    return latest_jpeg\ndef set_prediction(pred):\n    global latest_pred\n    latest_pred = pred\ndef get_prediction():",
+        "detail": "Backend.services.frame_store",
+        "documentation": {}
+    },
+    {
+        "label": "Notifier",
+        "kind": 6,
+        "importPath": "Backend.services.notifier",
+        "description": "Backend.services.notifier",
+        "peekOfCode": "class Notifier:\n    def __init__(self, webhook_url=None):\n        self.webhook_url = webhook_url\n    def send_alert(self, message: str):\n        if self.webhook_url:\n            payload = {\"text\": message}\n            try:\n                requests.post(self.webhook_url, json=payload)\n            except Exception as e:\n                print(\"Failed to send alert:\", e)",
+        "detail": "Backend.services.notifier",
+        "documentation": {}
+    },
+    {
+        "label": "RedisManager",
+        "kind": 6,
+        "importPath": "Backend.services.redis_manager",
+        "description": "Backend.services.redis_manager",
+        "peekOfCode": "class RedisManager:\n    def __init__(self):\n        self.client = redis.Redis(\n            host=settings.REDIS_HOST,\n            port=settings.REDIS_PORT,\n            db=settings.REDIS_DB,\n            decode_responses=True\n        )\n    def set_prediction(self, video_id, result):\n        self.client.set(video_id, result)",
+        "detail": "Backend.services.redis_manager",
+        "documentation": {}
+    },
+    {
+        "label": "test_root",
+        "kind": 2,
+        "importPath": "Backend.tests.test_endpoints",
+        "description": "Backend.tests.test_endpoints",
+        "peekOfCode": "def test_root():\n    resp = requests.get(f\"{BASE_URL}/\")\n    print(resp.json())\ndef test_video_predict(video_path):\n    with open(video_path, \"rb\") as f:\n        files = {\"video\": f}\n        resp = requests.post(f\"{BASE_URL}/video/predict\", files=files)\n        print(resp.json())\nif __name__ == \"__main__\":\n    test_root()",
+        "detail": "Backend.tests.test_endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "test_video_predict",
+        "kind": 2,
+        "importPath": "Backend.tests.test_endpoints",
+        "description": "Backend.tests.test_endpoints",
+        "peekOfCode": "def test_video_predict(video_path):\n    with open(video_path, \"rb\") as f:\n        files = {\"video\": f}\n        resp = requests.post(f\"{BASE_URL}/video/predict\", files=files)\n        print(resp.json())\nif __name__ == \"__main__\":\n    test_root()\n    # test_video_predict(\"test_video.mp4\")",
+        "detail": "Backend.tests.test_endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "Backend.tests.test_endpoints",
+        "description": "Backend.tests.test_endpoints",
+        "peekOfCode": "BASE_URL = \"http://127.0.0.1:8000\"\ndef test_root():\n    resp = requests.get(f\"{BASE_URL}/\")\n    print(resp.json())\ndef test_video_predict(video_path):\n    with open(video_path, \"rb\") as f:\n        files = {\"video\": f}\n        resp = requests.post(f\"{BASE_URL}/video/predict\", files=files)\n        print(resp.json())\nif __name__ == \"__main__\":",
+        "detail": "Backend.tests.test_endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "csv_to_xlsx",
+        "kind": 2,
+        "importPath": "Backend.utils.log_converter",
+        "description": "Backend.utils.log_converter",
+        "peekOfCode": "def csv_to_xlsx():\n    \"\"\"\n    Convert inference_logs.csv to inference_logs.xlsx using openpyxl\n    Requires: pip install openpyxl\n    \"\"\"\n    try:\n        from openpyxl import Workbook\n        from openpyxl.styles import Font, PatternFill, Alignment\n        csv_file = \"inference_logs.csv\"\n        xlsx_file = \"inference_logs.xlsx\"",
+        "detail": "Backend.utils.log_converter",
+        "documentation": {}
+    },
+    {
+        "label": "csv_to_xlsx_pandas",
+        "kind": 2,
+        "importPath": "Backend.utils.log_converter",
+        "description": "Backend.utils.log_converter",
+        "peekOfCode": "def csv_to_xlsx_pandas():\n    \"\"\"\n    Alternative method using pandas\n    Requires: pip install pandas openpyxl\n    \"\"\"\n    try:\n        import pandas as pd\n        csv_file = \"inference_logs.csv\"\n        xlsx_file = \"inference_logs.xlsx\"\n        if not os.path.exists(csv_file):",
+        "detail": "Backend.utils.log_converter",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_video",
+        "kind": 2,
+        "importPath": "Backend.utils.preprocessing",
+        "description": "Backend.utils.preprocessing",
+        "peekOfCode": "def preprocess_video(video_bytes):\n    # Save bytes temporarily\n    with tempfile.NamedTemporaryFile(delete=False, suffix=\".mp4\") as tmp:\n        tmp.write(video_bytes)\n        video_path = tmp.name\n    cap = cv2.VideoCapture(video_path)\n    frames = []\n    # Read all frames\n    while True:\n        ret, frame = cap.read()",
+        "detail": "Backend.utils.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "SEQ_LEN",
+        "kind": 5,
+        "importPath": "Backend.utils.preprocessing",
+        "description": "Backend.utils.preprocessing",
+        "peekOfCode": "SEQ_LEN = 35\nIMG_SIZE = 128  # your model input\nCHANNELS = 3\ndef preprocess_video(video_bytes):\n    # Save bytes temporarily\n    with tempfile.NamedTemporaryFile(delete=False, suffix=\".mp4\") as tmp:\n        tmp.write(video_bytes)\n        video_path = tmp.name\n    cap = cv2.VideoCapture(video_path)\n    frames = []",
+        "detail": "Backend.utils.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "IMG_SIZE",
+        "kind": 5,
+        "importPath": "Backend.utils.preprocessing",
+        "description": "Backend.utils.preprocessing",
+        "peekOfCode": "IMG_SIZE = 128  # your model input\nCHANNELS = 3\ndef preprocess_video(video_bytes):\n    # Save bytes temporarily\n    with tempfile.NamedTemporaryFile(delete=False, suffix=\".mp4\") as tmp:\n        tmp.write(video_bytes)\n        video_path = tmp.name\n    cap = cv2.VideoCapture(video_path)\n    frames = []\n    # Read all frames",
+        "detail": "Backend.utils.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "CHANNELS",
+        "kind": 5,
+        "importPath": "Backend.utils.preprocessing",
+        "description": "Backend.utils.preprocessing",
+        "peekOfCode": "CHANNELS = 3\ndef preprocess_video(video_bytes):\n    # Save bytes temporarily\n    with tempfile.NamedTemporaryFile(delete=False, suffix=\".mp4\") as tmp:\n        tmp.write(video_bytes)\n        video_path = tmp.name\n    cap = cv2.VideoCapture(video_path)\n    frames = []\n    # Read all frames\n    while True:",
+        "detail": "Backend.utils.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "process_video_stream",
+        "kind": 2,
+        "importPath": "Backend.workers.stream_processor",
+        "description": "Backend.workers.stream_processor",
+        "peekOfCode": "def process_video_stream(video_source=0, video_id=None):\n    global latest_pred\n    cap = cv2.VideoCapture(video_source)\n    if not cap.isOpened():\n        print(\"Error: Cannot open video source\")\n        return\n    frames = []\n    frame_count = 0\n    while True:\n        ret, frame = cap.read()",
+        "detail": "Backend.workers.stream_processor",
+        "documentation": {}
+    },
+    {
+        "label": "log_inference_result",
+        "kind": 2,
+        "importPath": "Backend.workers.stream_processor",
+        "description": "Backend.workers.stream_processor",
+        "peekOfCode": "def log_inference_result(video_id, is_abnormal, confidence):\n    \"\"\"Log inference result to CSV file\"\"\"\n    try:\n        import csv\n        import os\n        from datetime import datetime\n        log_file = \"inference_logs.csv\"\n        file_exists = os.path.exists(log_file)\n        with open(log_file, \"a\", newline=\"\", encoding=\"utf-8\") as f:\n            writer = csv.writer(f)",
+        "detail": "Backend.workers.stream_processor",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "Backend.fix_admin",
+        "description": "Backend.fix_admin",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    salt = secrets.token_hex(16)\n    password_hash = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000)\n    return salt + '$' + password_hash.hex()\n# Create new admin with correct hash\nadmin_id = secrets.token_urlsafe(16)\nadmin_email = 'admin@smartguard.com'\nadmin_password = 'admin123456'\nadmin_org = 'Smart Guard'\nadmin_role = 'admin'",
+        "detail": "Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "Backend.fix_admin",
+        "description": "Backend.fix_admin",
+        "peekOfCode": "conn = sqlite3.connect('smartguard.db')\nc = conn.cursor()\n# Delete old admin if exists\nc.execute('DELETE FROM users WHERE email = ?', ('admin@smartguard.com',))\n# Hash password correctly\ndef hash_password(password: str) -> str:\n    salt = secrets.token_hex(16)\n    password_hash = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000)\n    return salt + '$' + password_hash.hex()\n# Create new admin with correct hash",
+        "detail": "Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "Backend.fix_admin",
+        "description": "Backend.fix_admin",
+        "peekOfCode": "c = conn.cursor()\n# Delete old admin if exists\nc.execute('DELETE FROM users WHERE email = ?', ('admin@smartguard.com',))\n# Hash password correctly\ndef hash_password(password: str) -> str:\n    salt = secrets.token_hex(16)\n    password_hash = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), 100000)\n    return salt + '$' + password_hash.hex()\n# Create new admin with correct hash\nadmin_id = secrets.token_urlsafe(16)",
+        "detail": "Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin_id",
+        "kind": 5,
+        "importPath": "Backend.fix_admin",
+        "description": "Backend.fix_admin",
+        "peekOfCode": "admin_id = secrets.token_urlsafe(16)\nadmin_email = 'admin@smartguard.com'\nadmin_password = 'admin123456'\nadmin_org = 'Smart Guard'\nadmin_role = 'admin'\npassword_hash = hash_password(admin_password)\nc.execute('''INSERT INTO users (id, email, full_name, password_hash, organization, role, status)\nVALUES (?, ?, ?, ?, ?, ?, ?)''', \n(admin_id, admin_email, 'System Admin', password_hash, admin_org, admin_role, 'approved'))\nconn.commit()",
+        "detail": "Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin_email",
+        "kind": 5,
+        "importPath": "Backend.fix_admin",
+        "description": "Backend.fix_admin",
+        "peekOfCode": "admin_email = 'admin@smartguard.com'\nadmin_password = 'admin123456'\nadmin_org = 'Smart Guard'\nadmin_role = 'admin'\npassword_hash = hash_password(admin_password)\nc.execute('''INSERT INTO users (id, email, full_name, password_hash, organization, role, status)\nVALUES (?, ?, ?, ?, ?, ?, ?)''', \n(admin_id, admin_email, 'System Admin', password_hash, admin_org, admin_role, 'approved'))\nconn.commit()\nconn.close()",
+        "detail": "Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin_password",
+        "kind": 5,
+        "importPath": "Backend.fix_admin",
+        "description": "Backend.fix_admin",
+        "peekOfCode": "admin_password = 'admin123456'\nadmin_org = 'Smart Guard'\nadmin_role = 'admin'\npassword_hash = hash_password(admin_password)\nc.execute('''INSERT INTO users (id, email, full_name, password_hash, organization, role, status)\nVALUES (?, ?, ?, ?, ?, ?, ?)''', \n(admin_id, admin_email, 'System Admin', password_hash, admin_org, admin_role, 'approved'))\nconn.commit()\nconn.close()\nprint('✅ Admin account created successfully!')",
+        "detail": "Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin_org",
+        "kind": 5,
+        "importPath": "Backend.fix_admin",
+        "description": "Backend.fix_admin",
+        "peekOfCode": "admin_org = 'Smart Guard'\nadmin_role = 'admin'\npassword_hash = hash_password(admin_password)\nc.execute('''INSERT INTO users (id, email, full_name, password_hash, organization, role, status)\nVALUES (?, ?, ?, ?, ?, ?, ?)''', \n(admin_id, admin_email, 'System Admin', password_hash, admin_org, admin_role, 'approved'))\nconn.commit()\nconn.close()\nprint('✅ Admin account created successfully!')\nprint('Email: admin@smartguard.com')",
+        "detail": "Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin_role",
+        "kind": 5,
+        "importPath": "Backend.fix_admin",
+        "description": "Backend.fix_admin",
+        "peekOfCode": "admin_role = 'admin'\npassword_hash = hash_password(admin_password)\nc.execute('''INSERT INTO users (id, email, full_name, password_hash, organization, role, status)\nVALUES (?, ?, ?, ?, ?, ?, ?)''', \n(admin_id, admin_email, 'System Admin', password_hash, admin_org, admin_role, 'approved'))\nconn.commit()\nconn.close()\nprint('✅ Admin account created successfully!')\nprint('Email: admin@smartguard.com')\nprint('Password: admin123456')",
+        "detail": "Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "password_hash",
+        "kind": 5,
+        "importPath": "Backend.fix_admin",
+        "description": "Backend.fix_admin",
+        "peekOfCode": "password_hash = hash_password(admin_password)\nc.execute('''INSERT INTO users (id, email, full_name, password_hash, organization, role, status)\nVALUES (?, ?, ?, ?, ?, ?, ?)''', \n(admin_id, admin_email, 'System Admin', password_hash, admin_org, admin_role, 'approved'))\nconn.commit()\nconn.close()\nprint('✅ Admin account created successfully!')\nprint('Email: admin@smartguard.com')\nprint('Password: admin123456')\nprint('Organization: Smart Guard')",
+        "detail": "Backend.fix_admin",
+        "documentation": {}
+    },
+    {
+        "label": "App",
+        "kind": 6,
+        "importPath": "Backend.gui",
+        "description": "Backend.gui",
+        "peekOfCode": "class App(tk.Tk):\n    def __init__(self):\n        super().__init__()\n        self.title(\"Abnormal Behavior Checker\")\n        self.geometry(\"420x200\")\n        self.label = tk.Label(self, text=\"Choose source\")\n        self.label.pack(pady=10)\n        self.btn_cam = tk.Button(self, text=\"Use Camera\", command=self.on_camera)\n        self.btn_cam.pack(pady=5)\n        self.btn_upload = tk.Button(self, text=\"Upload Video\", command=self.on_upload)",
+        "detail": "Backend.gui",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 2,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "def root():\n    return {\"message\": \"Backend is running\"}\n# -----------------------------\n# Dashboard endpoint\n# -----------------------------\n@app.get(\"/dashboard\")\ndef dashboard():\n    import csv\n    from datetime import datetime, timedelta\n    try:",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "def dashboard():\n    import csv\n    from datetime import datetime, timedelta\n    try:\n        # Read inference logs using csv module instead of pandas\n        with open(\"inference_logs.csv\", \"r\") as f:\n            reader = csv.DictReader(f)\n            all_rows = list(reader)\n        # Filter for abnormal behavior only\n        abnormal_events = [row for row in all_rows if row.get(\"is_abnormal\") == \"True\"]",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "logs",
+        "kind": 2,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "def logs(format: str = \"csv\"):\n    \"\"\"Serve inference logs in CSV or XLSX format\"\"\"\n    try:\n        csv_file = \"inference_logs.csv\"\n        xlsx_file = \"inference_logs.xlsx\"\n        # Ensure CSV exists\n        if not os.path.exists(csv_file):\n            with open(csv_file, mode=\"w\", newline=\"\") as f:\n                writer = csv.writer(f)\n                writer.writerow([\"timestamp\", \"video_id\", \"confidence\", \"threshold\", \"is_abnormal\", ",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "gen_frames",
+        "kind": 2,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "def gen_frames():\n    \"\"\"\n    Generator that yields MJPEG frames from the stream processor\n    \"\"\"\n    import time\n    from services.frame_store import get_jpeg\n    while True:\n        try:\n            # Get frame from stream processor\n            jpeg_bytes = get_jpeg()",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "live",
+        "kind": 2,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "def live():\n    return StreamingResponse(\n        gen_frames(),\n        media_type='multipart/x-mixed-replace; boundary=frame'\n    )\n# -----------------------------\n# Endpoint to get latest prediction\n# -----------------------------\n@app.get(\"/latest_pred\")\ndef get_latest_pred():",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "get_latest_pred",
+        "kind": 2,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "def get_latest_pred():\n    from shared_state import latest_pred\n    return {\"prediction\": str(latest_pred) if latest_pred else \"No prediction yet\"}\n# -----------------------------\n# Favicon / Vite support\n# -----------------------------\n@app.get(\"/favicon.ico\")\ndef favicon_root():\n    return Response(content=\"\", media_type=\"image/x-icon\", status_code=204)\n@app.get(\"/@vite/client\")",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "favicon_root",
+        "kind": 2,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "def favicon_root():\n    return Response(content=\"\", media_type=\"image/x-icon\", status_code=204)\n@app.get(\"/@vite/client\")\ndef vite_client_root():\n    return Response(content=\"\", media_type=\"application/javascript\", status_code=200)",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "vite_client_root",
+        "kind": 2,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "def vite_client_root():\n    return Response(content=\"\", media_type=\"application/javascript\", status_code=200)",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"Abnormal Behavior Detection API\",\n    version=\"1.0.0\"\n)\n# Enable CORS for React frontend\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"http://localhost:3000\", \"http://127.0.0.1:3000\", \"http://localhost:5174\", \"http://127.0.0.1:5174\"],  # React frontend URLs\n    allow_credentials=True,\n    allow_methods=[\"*\"],",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "latest_pred",
+        "kind": 5,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "latest_pred = None\n# -----------------------------\n# Root endpoint\n# -----------------------------\n@app.get(\"/\")\ndef root():\n    return {\"message\": \"Backend is running\"}\n# -----------------------------\n# Dashboard endpoint\n# -----------------------------",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "process_video_stream_debug",
+        "kind": 2,
+        "importPath": "Backend.run_stream",
+        "description": "Backend.run_stream",
+        "peekOfCode": "def process_video_stream_debug(video_source=VIDEO_SOURCE, video_id=VIDEO_ID, show_window=True):\n    print(\"Opening video source:\", video_source)\n    cap = cv2.VideoCapture(video_source)\n    if not cap.isOpened():\n        print(\"Error: Cannot open video source\")\n        return\n    frames = []\n    print(\"Video source opened successfully. Starting frame capture...\")\n    try:\n        while True:",
+        "detail": "Backend.run_stream",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_SOURCE",
+        "kind": 5,
+        "importPath": "Backend.run_stream",
+        "description": "Backend.run_stream",
+        "peekOfCode": "VIDEO_SOURCE = 0      # 0 = webcam or path to video\nVIDEO_ID = \"cam1\"     # video ID for Redis or storage\nSEQ_LEN = 35          # number of frames per inference\ndef process_video_stream_debug(video_source=VIDEO_SOURCE, video_id=VIDEO_ID, show_window=True):\n    print(\"Opening video source:\", video_source)\n    cap = cv2.VideoCapture(video_source)\n    if not cap.isOpened():\n        print(\"Error: Cannot open video source\")\n        return\n    frames = []",
+        "detail": "Backend.run_stream",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_ID",
+        "kind": 5,
+        "importPath": "Backend.run_stream",
+        "description": "Backend.run_stream",
+        "peekOfCode": "VIDEO_ID = \"cam1\"     # video ID for Redis or storage\nSEQ_LEN = 35          # number of frames per inference\ndef process_video_stream_debug(video_source=VIDEO_SOURCE, video_id=VIDEO_ID, show_window=True):\n    print(\"Opening video source:\", video_source)\n    cap = cv2.VideoCapture(video_source)\n    if not cap.isOpened():\n        print(\"Error: Cannot open video source\")\n        return\n    frames = []\n    print(\"Video source opened successfully. Starting frame capture...\")",
+        "detail": "Backend.run_stream",
+        "documentation": {}
+    },
+    {
+        "label": "SEQ_LEN",
+        "kind": 5,
+        "importPath": "Backend.run_stream",
+        "description": "Backend.run_stream",
+        "peekOfCode": "SEQ_LEN = 35          # number of frames per inference\ndef process_video_stream_debug(video_source=VIDEO_SOURCE, video_id=VIDEO_ID, show_window=True):\n    print(\"Opening video source:\", video_source)\n    cap = cv2.VideoCapture(video_source)\n    if not cap.isOpened():\n        print(\"Error: Cannot open video source\")\n        return\n    frames = []\n    print(\"Video source opened successfully. Starting frame capture...\")\n    try:",
+        "detail": "Backend.run_stream",
+        "documentation": {}
+    },
+    {
+        "label": "latest_pred",
+        "kind": 5,
+        "importPath": "Backend.shared_state",
+        "description": "Backend.shared_state",
+        "peekOfCode": "latest_pred = None",
+        "detail": "Backend.shared_state",
+        "documentation": {}
+    },
+    {
+        "label": "run_backend",
+        "kind": 2,
+        "importPath": "Backend.start_backend",
+        "description": "Backend.start_backend",
+        "peekOfCode": "def run_backend():\n    uvicorn.run(\"main:app\", host=\"127.0.0.1\", port=8001)\ndef run_stream():\n    time.sleep(1)  # let backend start\n    print(\"Starting stream processor with preprocessing and 35-frame analysis...\")\n    try:\n        process_video_stream(video_source=VIDEO_SOURCE, video_id=VIDEO_ID)\n    except Exception as e:\n        print(\"Error in video stream:\", e)\nif __name__ == \"__main__\":",
+        "detail": "Backend.start_backend",
+        "documentation": {}
+    },
+    {
+        "label": "run_stream",
+        "kind": 2,
+        "importPath": "Backend.start_backend",
+        "description": "Backend.start_backend",
+        "peekOfCode": "def run_stream():\n    time.sleep(1)  # let backend start\n    print(\"Starting stream processor with preprocessing and 35-frame analysis...\")\n    try:\n        process_video_stream(video_source=VIDEO_SOURCE, video_id=VIDEO_ID)\n    except Exception as e:\n        print(\"Error in video stream:\", e)\nif __name__ == \"__main__\":\n    # Run backend in a daemon thread\n    backend_thread = threading.Thread(target=run_backend, daemon=True)",
+        "detail": "Backend.start_backend",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_SOURCE",
+        "kind": 5,
+        "importPath": "Backend.start_backend",
+        "description": "Backend.start_backend",
+        "peekOfCode": "VIDEO_SOURCE = 0\nVIDEO_ID = \"cam1\"\ndef run_backend():\n    uvicorn.run(\"main:app\", host=\"127.0.0.1\", port=8001)\ndef run_stream():\n    time.sleep(1)  # let backend start\n    print(\"Starting stream processor with preprocessing and 35-frame analysis...\")\n    try:\n        process_video_stream(video_source=VIDEO_SOURCE, video_id=VIDEO_ID)\n    except Exception as e:",
+        "detail": "Backend.start_backend",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_ID",
+        "kind": 5,
+        "importPath": "Backend.start_backend",
+        "description": "Backend.start_backend",
+        "peekOfCode": "VIDEO_ID = \"cam1\"\ndef run_backend():\n    uvicorn.run(\"main:app\", host=\"127.0.0.1\", port=8001)\ndef run_stream():\n    time.sleep(1)  # let backend start\n    print(\"Starting stream processor with preprocessing and 35-frame analysis...\")\n    try:\n        process_video_stream(video_source=VIDEO_SOURCE, video_id=VIDEO_ID)\n    except Exception as e:\n        print(\"Error in video stream:\", e)",
+        "detail": "Backend.start_backend",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "Frontend.node_modules.flatted.python.flatted",
+        "description": "Frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "Frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "Frontend.node_modules.flatted.python.flatted",
+        "description": "Frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "Frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "Frontend.node_modules.flatted.python.flatted",
+        "description": "Frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "Frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "Frontend.node_modules.flatted.python.flatted",
+        "description": "Frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "Frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    }
+]
